@@ -1,0 +1,365 @@
+/* ==========================================================================
+   EXTREME Lab — site styles
+   Design note: the palette is a temperature ramp, from ambient slate through
+   plasma violet to incandescent orange. It is used as a real scale, not
+   decoration: every research area is tagged with the regime it works in.
+   ========================================================================== */
+
+:root {
+  --paper:      #F1F2EF;
+  --paper-sunk: #E5E7E2;
+  --ink:        #101418;
+  --ink-mid:    #4B525A;
+  --rule:       #C7CAC3;
+
+  /* Temperature ramp */
+  --t-ambient:  #1B2A4A;
+  --t-warm:     #3A4C8C;
+  --t-plasma:   #7A3FA6;
+  --t-hot:      #C6402A;
+  --t-incand:   #E8761B;
+  --t-white:    #EFC24E;
+
+  --ramp: linear-gradient(90deg,
+            var(--t-ambient) 0%,
+            var(--t-warm)   18%,
+            var(--t-plasma) 42%,
+            var(--t-hot)    68%,
+            var(--t-incand) 84%,
+            var(--t-white) 100%);
+
+  --display: "IBM Plex Sans Condensed", "Arial Narrow", sans-serif;
+  --body:    "IBM Plex Serif", Georgia, serif;
+  --utility: "IBM Plex Mono", ui-monospace, monospace;
+
+  --gutter: clamp(1.25rem, 5vw, 4.5rem);
+  --measure: 62ch;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  font-synthesis-weight: none;
+}
+
+a { color: inherit; }
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+}
+.skip-link:focus {
+  left: var(--gutter);
+  top: 0.5rem;
+  z-index: 10;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.5rem 0.9rem;
+  font-family: var(--utility);
+  font-size: 0.8rem;
+}
+
+:focus-visible {
+  outline: 2px solid var(--t-plasma);
+  outline-offset: 3px;
+}
+
+/* --- Utility type roles ------------------------------------------------- */
+
+.eyebrow {
+  font-family: var(--utility);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-mid);
+  margin: 0 0 1.25rem;
+}
+
+.section-head {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(1.5rem, 3.5vw, 2.25rem);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  margin: 0 0 1.75rem;
+}
+
+/* --- Masthead ----------------------------------------------------------- */
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 1.5rem var(--gutter) 1.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.wordmark {
+  text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+.wordmark__name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+}
+
+.wordmark__sub {
+  font-family: var(--utility);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-mid);
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav a {
+  font-family: var(--utility);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+}
+
+.nav a:hover { border-bottom-color: var(--t-hot); }
+
+/* --- Hero --------------------------------------------------------------- */
+
+.hero {
+  padding: clamp(3.5rem, 11vw, 8rem) var(--gutter) 0;
+}
+
+.hero__title {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(2.6rem, 8.5vw, 6.25rem);
+  line-height: 0.94;
+  letter-spacing: -0.025em;
+  text-transform: uppercase;
+  margin: 0;
+  max-width: 16ch;
+  text-wrap: balance;
+}
+
+.hero__lede {
+  max-width: var(--measure);
+  margin: 2rem 0 0;
+  font-size: 1.1875rem;
+}
+
+/* --- Thermal scale (signature element) ---------------------------------- */
+
+.scale {
+  margin: clamp(3rem, 8vw, 5rem) 0 0;
+  padding: 0 var(--gutter) clamp(3rem, 8vw, 5rem);
+}
+
+.scale__bar {
+  height: 0.75rem;
+  background: var(--ramp);
+  transform-origin: left center;
+}
+
+.scale__ticks {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.6rem;
+  font-family: var(--utility);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-mid);
+  text-transform: uppercase;
+}
+
+.scale__ticks span { flex: 0 0 auto; }
+.scale__ticks span:nth-child(2),
+.scale__ticks span:nth-child(3) { display: none; }
+
+@media (min-width: 40rem) {
+  .scale__ticks span:nth-child(2),
+  .scale__ticks span:nth-child(3) { display: inline; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .scale__bar {
+    animation: ramp-in 1s cubic-bezier(0.22, 0.8, 0.24, 1) 0.15s both;
+  }
+  @keyframes ramp-in {
+    from { transform: scaleX(0); }
+    to   { transform: scaleX(1); }
+  }
+}
+
+/* --- Generic section ---------------------------------------------------- */
+
+.section {
+  padding: clamp(3rem, 8vw, 5.5rem) var(--gutter);
+  border-top: 1px solid var(--rule);
+}
+
+.section__intro {
+  max-width: var(--measure);
+  margin: 0 0 2.5rem;
+}
+
+/* --- Research areas ----------------------------------------------------- */
+
+.areas {
+  display: grid;
+  gap: 2.5rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 52rem) {
+  .areas { grid-template-columns: repeat(3, 1fr); gap: 3rem 2.5rem; }
+}
+
+.area {
+  border-top: 3px solid var(--area-color, var(--ink));
+  padding-top: 1rem;
+}
+
+.area__regime {
+  font-family: var(--utility);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--area-color, var(--ink-mid));
+  margin: 0 0 0.5rem;
+}
+
+.area__title {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.375rem;
+  line-height: 1.15;
+  margin: 0 0 0.65rem;
+}
+
+.area p { margin: 0; }
+
+/* --- Code --------------------------------------------------------------- */
+
+.repos {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
+  max-width: 60rem;
+}
+
+@media (min-width: 46rem) {
+  .repos { grid-template-columns: 1fr 1fr; gap: 2rem; }
+}
+
+.repo {
+  background: var(--paper-sunk);
+  padding: 1.5rem 1.5rem 1.75rem;
+  text-decoration: none;
+  display: block;
+  border-left: 3px solid var(--t-plasma);
+  transition: border-left-color 0.2s ease;
+}
+
+.repo:hover { border-left-color: var(--t-incand); }
+
+.repo__name {
+  font-family: var(--utility);
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.6rem;
+}
+
+.repo__desc {
+  margin: 0;
+  font-size: 0.9375rem;
+  color: var(--ink-mid);
+}
+
+/* --- Contact ------------------------------------------------------------ */
+
+.contact {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+  max-width: 60rem;
+}
+
+@media (min-width: 46rem) {
+  .contact { grid-template-columns: 1fr 1fr; gap: 3rem; }
+}
+
+.contact h3 {
+  font-family: var(--utility);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-mid);
+  margin: 0 0 0.6rem;
+}
+
+.contact p { margin: 0; }
+
+/* --- Footer ------------------------------------------------------------- */
+
+.colophon {
+  border-top: 1px solid var(--rule);
+  background: var(--paper-sunk);
+}
+
+.colophon::before {
+  content: "";
+  display: block;
+  height: 4px;
+  background: var(--ramp);
+}
+
+.colophon__inner {
+  padding: 2.5rem var(--gutter) 3rem;
+  display: grid;
+  gap: 1.25rem;
+}
+
+@media (min-width: 46rem) {
+  .colophon__inner { grid-template-columns: 1fr auto; align-items: start; }
+}
+
+.colophon__lab {
+  font-family: var(--display);
+  font-weight: 600;
+  font-size: 1.0625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  margin: 0;
+}
+
+.colophon__meta {
+  margin: 0;
+  font-family: var(--utility);
+  font-size: 0.75rem;
+  line-height: 1.8;
+  color: var(--ink-mid);
+}

@@ -1,0 +1,26 @@
+title: EXTREME Lab
+tagline: EXperimental Thermo-REactive Materials & Environments
+description: >-
+  The EXTREME Lab at the University of Illinois Urbana-Champaign studies how
+  materials and gases behave at the temperatures of atmospheric entry, from
+  plasma wind tunnel testing to X-ray imaging of ablating microstructures.
+
+url: "https://extremelab-illinois.github.io"
+baseurl: ""
+
+email: fpanerai@illinois.edu
+department: Department of Aerospace Engineering
+institution: University of Illinois Urbana-Champaign
+github_org: https://github.com/extremelab-illinois
+
+# Edit this list to change the site navigation.
+nav:
+  - label: Research
+    url: "#research"
+  - label: Code
+    url: "#code"
+  - label: Contact
+    url: "#contact"
+
+exclude:
+  - README.md

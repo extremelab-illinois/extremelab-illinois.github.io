@@ -1,0 +1,123 @@
+---
+layout: default
+---
+
+<!-- ==========================================================================
+     Everything between the markers below is draft copy. Rewrite it in your own
+     words before you show this to anyone — I inferred it from the lab's public
+     repos and site, so treat the specifics as guesses.
+     ========================================================================== -->
+
+<section class="hero">
+  <p class="eyebrow">EXperimental Thermo-REactive Materials &amp; Environments</p>
+  <h1 class="hero__title">How materials behave at 3000&nbsp;K, and how to predict it</h1>
+  <p class="hero__lede">
+    <!-- DRAFT COPY -->
+    We study the materials that keep spacecraft intact during atmospheric entry.
+    Our work combines plasma wind tunnel testing, X-ray imaging of microstructure,
+    and physical models of ablation and gas–surface interaction.
+  </p>
+</section>
+
+<div class="scale" aria-hidden="true">
+  <div class="scale__bar"></div>
+  <div class="scale__ticks">
+    <span>300 K · ambient</span>
+    <span>1200 K · pyrolysis</span>
+    <span>2000 K · ablation</span>
+    <span>3000 K · plasma</span>
+  </div>
+</div>
+
+<section class="section" id="research">
+  <h2 class="section-head">Research</h2>
+  <p class="section__intro">
+    <!-- DRAFT COPY -->
+    Three threads run through the lab's work, from the microstructure of a single
+    carbon fiber to the flow conditions of an entire test facility.
+  </p>
+
+  <div class="areas">
+    <article class="area" style="--area-color: var(--t-plasma);">
+      <p class="area__regime">2000–10 000 K · plasma</p>
+      <h3 class="area__title">Ground testing in plasma</h3>
+      <p>
+        Reproducing entry heating in inductively coupled plasma facilities, and
+        reconstructing the flow conditions a sample actually saw from pressure
+        and heat flux measurements.
+      </p>
+    </article>
+
+    <article class="area" style="--area-color: var(--t-hot);">
+      <p class="area__regime">1000–3000 K · ablation</p>
+      <h3 class="area__title">Ablation and spallation</h3>
+      <p>
+        How porous heat shield materials pyrolyze, recede, and shed particles
+        under aerothermal load — and how to capture that in models that
+        designers can use.
+      </p>
+    </article>
+
+    <article class="area" style="--area-color: var(--t-ambient);">
+      <p class="area__regime">Micron scale · imaging</p>
+      <h3 class="area__title">Microstructure and transport</h3>
+      <p>
+        X-ray micro-tomography of fibrous insulators, and simulations on the
+        resulting geometries to link microstructure to permeability,
+        conductivity, and radiation transport.
+      </p>
+    </article>
+  </div>
+</section>
+
+<section class="section" id="code">
+  <h2 class="section-head">Code</h2>
+  <p class="section__intro">
+    Our open-source tools are released through the lab's
+    <a href="{{ site.github_org }}">GitHub organization</a>.
+  </p>
+
+  <div class="repos">
+    <a class="repo" href="https://github.com/extremelab-illinois/PlasFlowSolver">
+      <p class="repo__name">PlasFlowSolver</p>
+      <p class="repo__desc">
+        Data reduction for ICP wind tunnels. Recovers enthalpy, temperature, and
+        velocity from static pressure, stagnation pressure, and stagnation-point
+        wall heat flux, assuming local thermal and chemical equilibrium.
+      </p>
+    </a>
+
+    <a class="repo" href="https://github.com/extremelab-illinois/SCAM">
+      <p class="repo__name">SCAM</p>
+      <p class="repo__desc">
+        (not so) Simple Code for Ablative Materials — a public release of the
+        lab's material response solver.
+      </p>
+    </a>
+  </div>
+</section>
+
+<section class="section" id="contact">
+  <h2 class="section-head">Contact</h2>
+  <div class="contact">
+    <div>
+      <h3>Principal investigator</h3>
+      <p>
+        <!-- DRAFT: confirm title -->
+        Francesco Panerai<br>
+        {{ site.department }}<br>
+        {{ site.institution }}<br>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+    </div>
+    <div>
+      <h3>Joining the lab</h3>
+      <p>
+        <!-- DRAFT COPY -->
+        We look for students interested in high-temperature materials,
+        experimental diagnostics, and computational modeling. Email the PI with a
+        CV and a short note about what you want to work on.
+      </p>
+    </div>
+  </div>
+</section>
