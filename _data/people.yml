@@ -92,6 +92,27 @@ undergrads:
     photo: mars.jpg
 
 alumni:
+  - name: Matthew Czop
+    degree: MS
+    year: 2021
+    thesis: Design of a Plasmatron Wind Tunnel for Hypersonic Materials Research
+    now: Collins Aerospace
+  - name: Arihant Jain
+    coadvisor: Villafane Roca
+    degree: MS
+    year: 2022
+    thesis: Particle-laden Under-expanded Jets
+    now: Georgia Institute of Technology
+  - name: Samuel Chen
+    degree: MS
+    year: 2023
+    thesis: Differential Oxidation in Amorphous and Graphitic Carbon
+    now: Northrop Grumman Corporation
+  - name: Ali Soliman
+    degree: MS
+    year: 2023
+    thesis: Development of Actinometry for High Temperature Surface Catalysis
+    now: Lockheed Martin
   - name: Collin Foster
     degree: PhD
     year: 2024
