@@ -95,16 +95,22 @@ alumni:
   - name: Collin Foster
     degree: PhD
     year: 2024
-    now: Johns Hopkins University Applied Physics Lab
+    thesis: Micro-to-meso-scale High Temperature Response of Ablative Systems for Atmospheric Reentry
+    now: Johns Hopkins University Applied Physics Laboratory
+  - name: Matthew Konnik
+    coadvisor: Stephani
+    degree: PhD
+    year: 2024
+    thesis: Multiscale Corrosion of Zirconium Carbide, Carbon and Cf/ZrC under Extreme Environments
+    now: University of Illinois at Urbana-Champaign
   - name: Benjamin Ringel
     degree: PhD
     year: 2025
+    thesis: Characterization of Carbon Ablators for Hypersonic Thermal Protection Systems
     now: Varda Space Industries
   - name: Sreevishnu Oruganti
+    coadvisor: Panesi
     degree: PhD
     year: 2026
+    thesis: Experimentation and Modeling of Intumescent Ablators
     now: NASA Johnson Space Center
-  - name: Matthew Konnink
-    degree: PhD
-    year: 2025
-    now: Postdoctoral Fellow, Center for Hypersonics and Entry System Studies

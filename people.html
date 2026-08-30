@@ -149,9 +149,15 @@ permalink: /people/
     <ul class="alumni-list">
       {% for person in site.data.people.alumni %}
       <li class="alumni-item">
-        <span class="alumni-item__name">{{ person.name }}</span>
-        <span class="alumni-item__degree">{{ person.degree }}, {{ person.year }}</span>
-        <span class="alumni-item__now">{{ person.now }}</span>
+        <div class="alumni-item__row">
+          <span class="alumni-item__name">
+            {{ person.name }}
+            {% if person.coadvisor %}<span class="alumni-item__coadvisor">(co-advised with Prof. {{ person.coadvisor }})</span>{% endif %}
+          </span>
+          <span class="alumni-item__degree">{{ person.degree }}, {{ person.year }}</span>
+          <span class="alumni-item__now">{{ person.now }}</span>
+        </div>
+        {% if person.thesis %}<p class="alumni-item__thesis">{{ person.thesis }}</p>{% endif %}
       </li>
       {% endfor %}
     </ul>

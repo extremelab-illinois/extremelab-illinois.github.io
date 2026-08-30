@@ -506,13 +506,19 @@ a { color: inherit; }
 }
 
 .alumni-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.9375rem;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.75rem;
+}
+
+.alumni-item__row {
   display: grid;
   grid-template-columns: 1fr auto auto;
   gap: 1rem;
   align-items: baseline;
-  font-size: 0.9375rem;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.75rem;
 }
 
 .alumni-item__name {
@@ -521,6 +527,23 @@ a { color: inherit; }
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.01em;
+}
+
+.alumni-item__coadvisor {
+  font-family: var(--utility);
+  font-weight: 400;
+  font-size: 0.75rem;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--ink-mid);
+}
+
+.alumni-item__thesis {
+  margin: 0;
+  font-family: var(--body);
+  font-style: italic;
+  font-size: 0.875rem;
+  color: var(--ink-mid);
 }
 
 .alumni-item__degree {
@@ -541,7 +564,7 @@ a { color: inherit; }
   .person-card--pi {
     flex-direction: column;
   }
-  .alumni-item {
+  .alumni-item__row {
     grid-template-columns: 1fr;
     gap: 0.2rem;
   }
