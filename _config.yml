@@ -17,6 +17,8 @@ github_org: https://github.com/extremelab-illinois
 nav:
   - label: Research
     url: "#research"
+  - label: People
+    url: /people/
   - label: Code
     url: "#code"
   - label: Contact

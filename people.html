@@ -1,0 +1,160 @@
+---
+layout: default
+title: People
+---
+
+<section class="hero" style="padding-bottom: 3rem;">
+  <p class="eyebrow">The team</p>
+  <h1 class="hero__title">People</h1>
+</section>
+
+<section class="section" style="border-top: none; padding-top: 0;">
+
+  <!-- PI -->
+  <div class="people-pi">
+    <div class="person-card person-card--pi">
+      <div class="person-card__photo">
+        <img src="{{ '/assets/images/' | append: site.data.people.pi.photo | relative_url }}"
+             alt="{{ site.data.people.pi.name }}">
+      </div>
+      <div class="person-card__body">
+        <p class="person-card__name">{{ site.data.people.pi.name }}</p>
+        <p class="person-card__title">{{ site.data.people.pi.title }}</p>
+        <p class="person-card__meta">{{ site.data.people.pi.department }}<br>{{ site.data.people.pi.institution }}</p>
+        <p class="person-card__links">
+          <a href="mailto:{{ site.data.people.pi.email }}">{{ site.data.people.pi.email }}</a>
+          {% if site.data.people.pi.scholar %}
+          · <a href="{{ site.data.people.pi.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+          {% endif %}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Research Scientists -->
+  {% if site.data.people.research_scientists.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">Research Scientists</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.research_scientists %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        {% if person.affiliation %}<p class="person-card__title">{{ person.affiliation }}</p>{% endif %}
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Postdocs -->
+  {% if site.data.people.postdocs.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">Postdoctoral Researchers</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.postdocs %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- PhD Students -->
+  {% if site.data.people.phd.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">PhD Students</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.phd %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        {% if person.coadvisor %}<p class="person-card__title">Co-advised with {{ person.coadvisor }}</p>{% endif %}
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- MS Students -->
+  {% if site.data.people.ms.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">MS Students</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.ms %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Visiting MS Students -->
+  {% if site.data.people.visiting_ms.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">Visiting MS Students</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.visiting_ms %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Undergrads -->
+  {% if site.data.people.undergrads.size > 0 %}
+  <div class="people-group">
+    <h2 class="people-group__label">Undergraduate Researchers</h2>
+    <div class="people-grid">
+      {% for person in site.data.people.undergrads %}
+      <div class="person-card">
+        <div class="person-card__photo">
+          <img src="{{ '/assets/images/' | append: person.photo | relative_url }}" alt="{{ person.name }}">
+        </div>
+        <p class="person-card__name">{{ person.name }}</p>
+        <p class="person-card__research">{{ person.research }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Alumni -->
+  {% if site.data.people.alumni.size > 0 %}
+  <div class="people-group people-group--alumni">
+    <h2 class="people-group__label">Alumni</h2>
+    <ul class="alumni-list">
+      {% for person in site.data.people.alumni %}
+      <li class="alumni-item">
+        <span class="alumni-item__name">{{ person.name }}</span>
+        <span class="alumni-item__degree">{{ person.degree }}, {{ person.year }}</span>
+        <span class="alumni-item__now">{{ person.now }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</section>

@@ -1,0 +1,110 @@
+# _data/people.yml
+# Add or edit entries here — the people page renders this automatically.
+# Photos live in assets/images/
+
+pi:
+  name: Francesco Panerai
+  title: Associate Professor
+  department: Department of Aerospace Engineering
+  institution: University of Illinois Urbana-Champaign
+  email: fpanerai@illinois.edu
+  scholar: https://scholar.google.com/citations?user=8IHt-u8AAAAJ&hl=en&oi=sra
+  photo: sun.jpg
+
+research_scientists:
+  - name: Massimo Franco
+    title: Research Scientist
+    affiliation: Center for Hypersonics and Entry System Studies
+    research: Managing Plasmatron X research operations.
+    photo: jupiter.jpg
+
+postdocs:
+  - name: Trey Oldham
+    research: Developing diagnostics for plasmas and gas-material interactions.
+    photo: saturn.jpg
+  - name: Assi Soini
+    research: Studying fracture of Earth-impacting asteroids.
+    photo: mars.jpg
+
+phd:
+  - name: Cutler Philippe
+    coadvisor: Laura Villafane Roca
+    research: Studying parachute textiles for aerodynamic decelerators.
+    photo: earth.jpg
+  - name: Henry Varona
+    research: Investigating interactions of carbon/phenolic ablators with combustion gases.
+    photo: venus.jpg
+  - name: Teddy Mansfield
+    coadvisor: Gregory Elliott
+    research: Developing diagnostics for plasma wind tunnel experiments including Optical Emission Spectroscopy and Coherent Anti-Stokes Raman Scattering.
+    photo: mercury.jpg
+  - name: Henry Boesch
+    research: In situ micro-tomography of carbon coking in pyrolyzing ablators.
+    photo: moon.jpg
+  - name: Madhura Sabhai
+    research: High-temperature gas-surface interaction in spinning disk reactor.
+    photo: neptune.jpg
+  - name: Prasad Roshan
+    coadvisor: Gregory Elliott
+    research: Developing diagnostics for Plasmatron One wind tunnel.
+    photo: uranus.jpg
+  - name: Asena Gelisli
+    research: Carbon sublimation at ultra-high temperature.
+    photo: pluto.jpg
+  - name: Tayler Salrin
+    research: Development of characterization and models for refractory tiles.
+    photo: earth.jpg
+  - name: Dillon Mulrooney
+    research: Development of internal pressure measurements for pyrolyzing ablators.
+    photo: venus.jpg
+
+ms:
+  - name: Ginevra Ceolato
+    research: Processing of low-, mid-, and high-density ablative materials.
+    photo: mars.jpg
+
+visiting_ms:
+  - name: Domenico Lanza
+    research: Development of non-equilibrium boundary layer solver.
+    photo: mercury.jpg
+  - name: Salvatore Perfetti
+    research: High-temperature infrared laser-material interactions.
+    photo: moon.jpg
+
+undergrads:
+  - name: Sidney Lewensohn
+    research: Characterization of 3D printed hypersonic heat shields.
+    photo: saturn.jpg
+  - name: Peyton Schwake
+    research: Development of 3D printed thermal protection systems.
+    photo: jupiter.jpg
+  - name: Adi Srikanth
+    research: Simulations of inductively coupled plasma flow.
+    photo: neptune.jpg
+  - name: Gabriela Zabiegaj
+    research: Characterization of refractory tiles.
+    photo: pluto.jpg
+  - name: Nayan Bajaj
+    research: Modeling of refractory tiles.
+    photo: uranus.jpg
+  - name: Jeffrey Chang
+    research: Thermomechanical properties of decomposing silicones.
+    photo: mars.jpg
+
+alumni:
+  - name: Collin Foster
+    degree: PhD
+    year: 2024
+    now: Johns Hopkins University Applied Physics Lab
+  - name: Benjamin Ringel
+    degree: PhD
+    year: 2025
+    now: Varda Space Industries
+  - name: Sreevishnu Oruganti
+    degree: PhD
+    year: 2026
+    now: NASA Johnson Space Center
+  - name: Matthew Konnink
+    degree: PhD
+    year: 2025
+    now: Postdoctoral Fellow, Center for Hypersonics and Entry System Studies
