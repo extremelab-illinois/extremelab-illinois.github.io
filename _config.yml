@@ -19,6 +19,8 @@ nav:
     url: "#research"
   - label: People
     url: /people/
+  - label: Publications
+    url: /publications/
   - label: Code
     url: "#code"
   - label: Contact

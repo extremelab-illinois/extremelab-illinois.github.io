@@ -1,0 +1,47 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<section class="hero" style="padding-bottom: 3rem;">
+  <p class="eyebrow">Selected scholarship</p>
+  <h1 class="hero__title">Publications</h1>
+</section>
+
+<section class="section" style="border-top: none; padding-top: 0;">
+
+  {% if site.data.publications.book_chapters.size > 0 %}
+  <div class="pub-group">
+    <h2 class="people-group__label">Book Chapters</h2>
+    <ol class="pub-list">
+      {% for entry in site.data.publications.book_chapters %}
+      <li>{{ entry }}</li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+
+  {% if site.data.publications.journal_articles.size > 0 %}
+  <div class="pub-group">
+    <h2 class="people-group__label">Journal Articles</h2>
+    <ol class="pub-list">
+      {% for entry in site.data.publications.journal_articles %}
+      <li>{{ entry }}</li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+
+  {% if site.data.publications.conference_proceedings.size > 0 %}
+  <div class="pub-group">
+    <h2 class="people-group__label">Conference Proceedings</h2>
+    <ol class="pub-list">
+      {% for entry in site.data.publications.conference_proceedings %}
+      <li>{{ entry }}</li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+
+</section>
