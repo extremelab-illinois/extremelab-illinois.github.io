@@ -233,7 +233,7 @@ a { color: inherit; }
 }
 
 @media (min-width: 52rem) {
-  .areas { grid-template-columns: repeat(3, 1fr); gap: 3rem 2.5rem; }
+  .areas { grid-template-columns: repeat(2, 1fr); gap: 3rem 2.5rem; }
 }
 
 .area {
