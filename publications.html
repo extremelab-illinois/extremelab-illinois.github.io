@@ -13,34 +13,43 @@ permalink: /publications/
 
   {% if site.data.publications.book_chapters.size > 0 %}
   <div class="pub-group">
-    <h2 class="people-group__label">Book Chapters</h2>
+    <h2 class="section-head">Book Chapters</h2>
+    {% for year_group in site.data.publications.book_chapters %}
+    <h3 class="pub-year">{% if year_group[0] == "before_2019" %}Before 2019{% else %}{{ year_group[0] }}{% endif %}</h3>
     <ol class="pub-list">
-      {% for entry in site.data.publications.book_chapters %}
+      {% for entry in year_group[1] %}
       <li>{{ entry }}</li>
       {% endfor %}
     </ol>
+    {% endfor %}
   </div>
   {% endif %}
 
   {% if site.data.publications.journal_articles.size > 0 %}
   <div class="pub-group">
-    <h2 class="people-group__label">Journal Articles</h2>
+    <h2 class="section-head">Journal Articles</h2>
+    {% for year_group in site.data.publications.journal_articles %}
+    <h3 class="pub-year">{% if year_group[0] == "before_2019" %}Before 2019{% else %}{{ year_group[0] }}{% endif %}</h3>
     <ol class="pub-list">
-      {% for entry in site.data.publications.journal_articles %}
+      {% for entry in year_group[1] %}
       <li>{{ entry }}</li>
       {% endfor %}
     </ol>
+    {% endfor %}
   </div>
   {% endif %}
 
   {% if site.data.publications.conference_proceedings.size > 0 %}
   <div class="pub-group">
-    <h2 class="people-group__label">Conference Proceedings</h2>
+    <h2 class="section-head">Conference Proceedings</h2>
+    {% for year_group in site.data.publications.conference_proceedings %}
+    <h3 class="pub-year">{% if year_group[0] == "before_2019" %}Before 2019{% else %}{{ year_group[0] }}{% endif %}</h3>
     <ol class="pub-list">
-      {% for entry in site.data.publications.conference_proceedings %}
+      {% for entry in year_group[1] %}
       <li>{{ entry }}</li>
       {% endfor %}
     </ol>
+    {% endfor %}
   </div>
   {% endif %}
 

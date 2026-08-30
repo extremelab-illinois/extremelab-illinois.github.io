@@ -1,666 +1,650 @@
 # _data/publications.yml
-# Selected scholarship. Each entry is a full citation string, kept in the
-# order given in the source record. The rendered page lists them in the
-# order below (oldest first within each category).
+# Selected scholarship, grouped by year (newest first), with entries
+# older than 2019 collected under "before_2019".
 
 book_chapters:
-  - >-
-    (*)(**) Chazot O, Panerai F. High-Enthalpy Facilities and Plasma Wind
-    Tunnels for Aerothermodynamics Ground Testing. Chapter 7. In: Josyula E,
-    editor. Hypersonic Nonequilibrium Flows: Fundamentals and Recent
-    Advances, American Institute for Aeronautics and Astronautics, April
-    2015.
-  - >-
-    (*)(**) Panerai F. Temperature and heat flux measurements. Chapter 6.
-    In: Discetti S, Ianiro A, editors. Experimental Aerodynamics. Taylor &
-    Francis Group, LLC, March 2017.
-  - >-
-    (*)(**) Panerai F, Sobhani S. Thermal Protection for Exploration
-    Vehicles. Chapter 13. In: Poliskie M, editor. Planning and Execution of
-    Human Missions to the Moon and Mars. American Institute for Aeronautics
-    and Astronautics, February 2023.
+  "2023":
+    - >-
+      Panerai F, Sobhani S. Thermal Protection for Exploration Vehicles. Chapter
+      13. In: Poliskie M, editor. Planning and Execution of Human Missions to the
+      Moon and Mars. American Institute for Aeronautics and Astronautics, February
+      2023.
+  "before_2019":
+    - >-
+      Chazot O, Panerai F. High-Enthalpy Facilities and Plasma Wind Tunnels for
+      Aerothermodynamics Ground Testing. Chapter 7. In: Josyula E, editor.
+      Hypersonic Nonequilibrium Flows: Fundamentals and Recent Advances, American
+      Institute for Aeronautics and Astronautics, April 2015.
+    - >-
+      Panerai F. Temperature and heat flux measurements. Chapter 6. In: Discetti
+      S, Ianiro A, editors. Experimental Aerodynamics. Taylor & Francis Group,
+      LLC, March 2017.
 
 journal_articles:
-  - >-
-    (*)(S)(P) Panerai F and Chazot O. Characterization of gas/surface
-    interactions for ceramic matrix composites in high enthalpy, low
-    pressure air flow. Materials Chemistry and Physics 134 (2012) 597-607.
-  - >-
-    (*)(S) Marschall J, Pejakovic D, Fahrenholtz WG, Hilmas GE, Panerai F,
-    and Chazot O. Temperature Jump Phenomenon During Plasmatron Testing of
-    ZrB2-SiC Ultrahigh-Temperature Ceramics. Journal of Thermophysics and
-    Heat Transfer 26(4) (2012) 559-72.
-  - >-
-    (*)(S)(P) Panerai F, Helber B, Chazot O, and Balat-Pichelin M. Surface
-    temperature jump beyond active oxidation of carbon/silicon carbide
-    composites in extreme aerothermal conditions. Carbon 71 (2014) 102-119.
-  - >-
-    (*) Panerai F, Martin A, Mansour NN, Sepka SA, and Lachaud J. Flow-Tube
-    Oxidation Experiments on the Carbon Preform of a Phenolic-Impregnated
-    Carbon Ablator. Journal of Thermophysics and Heat Transfer 28 (2014)
-    181-190.
-  - >-
-    (*)(S) Cipullo A, Helber B, Panerai F, Chazot O, and Zeni L.
-    Investigation of Freestream Plasma Flow Produced by Inductively Coupled
-    Plasma Wind Tunnel. Journal of Thermophysics and Heat Transfer 28 (2014)
-    381-393.
-  - >-
-    (*)(S)(P) Panerai F, Helber B, Chazot O, Balat-Pichelin M, and Nickel K.
-    Aerothermal response of ceramic matrix composites to nitrogen plasma at
-    temperatures above 2000 K. Aerospace Science and Technology 39 (2014)
-    1-5.
-  - >-
-    (*)(S)(P) Panerai F, Marschall J, Thoemel J, Vandendael I, Hubin A, and
-    Chazot O. Air plasma-material interactions at the oxidized surface of
-    the PM1000 nickel-chromium superalloy. Applied Surface Science 316
-    (2014) 385-397.
-  - >-
-    (*)(S) Balat-Pichelin M, Charpentier L, Panerai F, Chazot O, Helber B,
-    and Nickel K. Passive/active oxidation transition for CMC structural
-    materials designed for the IXV vehicle re-entry phase. Journal of the
-    European Ceramic Society 35 (2015) 487-502.
-  - >-
-    (*) Wong HW, Peck J, Bonomi RE, Assif J, Reinisch G, Panerai F, Lachaud
-    J, and Mansour NN. Quantitative determination of species production
-    from the pyrolysis of a phenol-formaldehyde resin. Polymer Degradation
-    and Stability 112 (2015) 122-131.
-  - >-
-    (*) Ferguson J, Panerai F, Lachaud J, Martin A, Bailey SCC, and Mansour
-    NN. Modeling the oxidation of low-density carbon fiber material based
-    on micro-tomography. Carbon 96 (2016) 57-65.
-  - >-
-    (*) Nouri N, Panerai F, Tagavi KA, Mansour NN, and Martin A. Evaluation
-    of the anisotropic radiative conductivity of a low-density carbon fiber
-    material from realistic microscale imaging. International Journal of
-    Heat and Mass Transfer 95 (2016) 535-539.
-  - >-
-    (*) Omidy AD, Panerai F, Lachaud JR, Mansour NN, and Martin A. Effects
-    of water phase change on the material response of low-density
-    carbon-phenolic ablators. Journal of Thermophysics and Heat Transfer 30
-    (2016) 473-478.
-  - >-
-    (*) Martin A, Bailey SCC, Panerai F, Davuluri RSC, Vazsonyi AR, Zhang H,
-    Lippay ZS, Mansour NN, Inman JA, Bathel BF, Splinter SC, and Danehy PM.
-    Numerical and experimental analysis of the spallation phenomena. CEAS
-    Space Journal 8 (2016) 229-236.
-  - >-
-    (*) Panerai F, White JD, Cochell TJ, Schroeder OM, Mansour NN, Wright
-    MJ, and Martin A. Experimental measurements of the permeability of
-    fibrous carbon at high temperature. International Journal of Heat and
-    Mass Transfer 101 (2016) 267-273.
-  - >-
-    (*) Wong HW, Peck J, Assif J, Panerai F, Lachaud J, and Mansour NN.
-    Detailed analysis of species production from the pyrolysis of the
-    Phenolic Impregnated Carbon Ablator. Journal of Analytical and Applied
-    Pyrolysis 122 (2016) 258-267.
-  - >-
-    (*)(S)(P) Viladegut A, Panerai F, Chazot O, Pichon T, Bertrand P, Verdy
-    C, and Coddet C. Design, integration and preliminary results of the IXV
-    Catalysis experiment. CEAS Space Journal 9 (2017) 141-151.
-  - >-
-    (*) Borner A, Panerai F, and Mansour NN. High-temperature permeability
-    of fibrous materials using direct simulation Monte Carlo. International
-    Journal of Heat and Mass Transfer 106 (2017) 1318-1326.
-  - >-
-    (*) Sanson F, Villedieu N, Panerai F, Chazot O, Magin T, and Congedo P.
-    Uncertainty quantification for the characterization of reusable
-    material catalytic property. Experimental Thermal and Fluid Science 82
-    (2017) 414-423.
-  - >-
-    (*) Panerai F, Ferguson J, Lachaud J, Martin A, Gasch MJ, and Mansour
-    NN. Micro-tomography based analysis of thermal conductivity,
-    diffusivity and oxidation behavior of rigid and flexible fibrous
-    insulators. International Journal of Heat and Mass Transfer 108 (2017)
-    801-811.
-  - >-
-    (*) Vanaerschot A, Panerai F, Cassell A, Lomov SV, Vandepitte D, and
-    Mansour NN. Stochastic characterisation methodology for 3-D textiles
-    based on micro-tomography. Composite Structures 173 (2017) 44-52.
-  - >-
-    (*) Ferguson J, Panerai F, Lachaud J, and Mansour NN. Theoretical study
-    on the micro-scale oxidation of resin-infused carbon ablators. Carbon
-    121 (2017) 552-562.
-  - >-
-    (*) Bailey SCC, Bauer D, Panerai F, Splinter SC, Danehy PM, Hardy JM,
-    and Martin A. Experimental analysis of spallation particle trajectories
-    in an arc-jet environment. Experimental Thermal and Fluid Science 93
-    (2018) 319-325.
-  - >-
-    (*) Meurisse JBE, Lachaud J, Panerai F, Tang C, and Mansour NN.
-    Multidimensional material response simulations of a full-scale tiled
-    ablative heatshield. Aerospace Science and Technology 76 (2018)
-    497-511.
-  - >-
-    (*) Ferguson JC, Panerai F, Boner A, and Mansour NN. PuMA: the Porous
-    Microstructure Analysis software. SoftwareX 7 (2018) 81-87.
-  - >-
-    (*) Sanson F, Panerai F, Magin T, and Congedo P. Robust reconstruction
-    of the catalytic properties of thermal protection materials from
-    sparse high-enthalpy facility experimental data. Experimental Thermal
-    and Fluid Science 96 (2018) 482-492.
-  - >-
-    (*) Jambunathan R, Levin DA, Borner A, Ferguson JC, and Panerai F.
-    Prediction of gas transport properties through fibrous carbon preform
-    microstructures using Direct Simulation Monte Carlo. International
-    Journal of Heat and Mass Transfer 130 (2019) 923-937.
-  - >-
-    (*) Panerai F, Cochell T, Martin A, and White JD. Experimental
-    measurements of the high-temperature oxidation of carbon fibers.
-    International Journal of Heat and Mass Transfer 136 (2019) 972-986.
-  - >-
-    (*) Torres-Herrador F, Meurisse JBE, Panerai F, Blondeau J, Lachaud J,
-    Bessire BK, Magin TE, and Mansour NN. A high heating rate pyrolysis
-    model for the Phenolic Impregnated Carbon Ablator (PICA) based on mass
-    spectroscopy experiments. Journal of Analytical and Applied Pyrolysis
-    141 (2019) 104625.
-  - >-
-    (*) MacNeil JML, Ushizima DM, Panerai F, Mansour NN, Barnard HS, and
-    Parkinson DY. Interactive volumetric segmentation for textile
-    micro-tomography data using wavelets and nonlocal means. Statistical
-    Analysis and Data Mining: The ASA Data Science Journal 12(4) (2019)
-    338-353.
-  - >-
-    (*) Torres-Herrador F, Coheur J, Panerai F, Blondeau J, Magin TE, and
-    Mansour NN. Competitive kinetic model for the pyrolysis of the Phenolic
-    Impregnated Carbon Ablator. Aerospace Science and Technology 100 (2020)
-    105784.
-  - >-
-    (*) Semeraro F, Ferguson JC, Panerai F, and Mansour NN. Anisotropic
-    analysis of fibrous and woven materials part 1: Estimation of local
-    orientation. Computational Materials Science 178 (2020) 109631.
-  - >-
-    (*) Barry C, Panerai F, Bergeron K, Stapleton S, and Sherwood J.
-    Mesomechanical Modeling of Braided Cords. Procedia Manufacturing 47
-    (2020) 162-168.
-  - >-
-    (*) Semeraro F, Ferguson JC, Acin M, Panerai F, and Mansour NN.
-    Anisotropic analysis of fibrous and woven materials part 2: Computation
-    of effective conductivity. Computational Materials Science 186 (2021)
-    109956.
-  - >-
-    (*) Ferguson JC, Semeraro F, Thornton JM, Panerai F, and Mansour NN.
-    Update 3.0 to "PuMA: The Porous Microstructure Analysis software",
-    (PII: S2352711018300281). SoftwareX 15 (2021) 100775.
-  - >-
-    (*)(W) Panerai F, Bessire BK, Haskins JB, Foster CW, Stern EC, Barnard
-    HS, and Feldman JD. Morphological Evolution of Ordinary Chondrite
-    Microstructure During Heating: Implications for Atmospheric Entry.
-    Planetary Science Journal 2(5) (2021) 179.
-  - >-
-    (*) Ferguson JC, Borner A, Panerai F, Close S, and Mansour NN.
-    Continuum to rarefied diffusive tortuosity factors in porous media from
-    X-ray microtomography. Computational Materials Science 203 (2022)
-    111030.
-  - >-
-    (*)(W) Konnik MT, Panerai F, and Stephani K. The role of impurities and
-    degradation on the thermal conductivity of carbon fiber and amorphous
-    carbon. Carbon Trends 7 (2022) 100151.
-  - >-
-    (*) Swaminathan Gopalan K, Borner A, Ferguson J, Panerai F, Mansour NN,
-    and Stephani K. Gas-surface interactions in lightweight fibrous carbon
-    materials. Computational Materials Science 205 (2022) 111190.
-  - >-
-    (*) Price KJ, Panerai F, Borchetta CG, Hardy JM, Martin A, and Bailey
-    SCC. Arc-jet measurements of low-density ablator spallation.
-    Experimental Thermal and Fluid Science 133 (2022) 110544.
-  - >-
-    (*) Meurisse JBE, Bellas Chatzigeorgis G, Ventura Diaz P, Bessire BK,
-    Panerai F, and Mansour NN. Equilibrium model for the ablation response
-    of silicone-coated PICA. International Journal of Heat and Mass
-    Transfer 201 (2023) 123523.
-  - >-
-    (*)(W) Oruganti S, Mansour NN, Panesi M, and Panerai F. Microstructure
-    of Pyrolyzing RTV Silicone. Polymer Degradation and Stability 207
-    (2023) 110237.
-  - >-
-    (*)(W) Foster CW, Oruganti S, and Panerai F. Real-time quantitative
-    imaging of RTV silicone pyrolysis. Polymer Degradation and Stability
-    214 (2023) 1104403.
-  - >-
-    (*)(W) Foster CW, Collins LN, Panerai F, Roberts SA. Assessing
-    thermophysical properties of parameterized woven composite models
-    using image-based simulations. Composites Science and Technology
-    (2023) 110136.
-  - >-
-    (*) Padovan A, Vollmer B, Panerai F, Panesi M, Stephani KA, Bodony DJ.
-    A Modified B' Formulation for Ablating-Surface Boundary Conditions.
-    International Journal of Heat and Mass Transfer 218 (2024) 124770.
-  - >-
-    (*)(**) Mansour NN, Panerai F, Lachaud J. Flow Mechanics in Ablative
-    Thermal Protection Systems. Annual Review of Fluid Mechanics 56 (2024)
-    549-575.
-  - >-
-    (*)(W)(!)(D) Konnik MT, Oldham T, Le Maout V, Rzepka A, Hecht DH,
-    Stephani KA, Panerai F. High-temperature oxidation and nitridation of
-    substoichiometric zirconium carbide in isothermal air. Journal of the
-    European Ceramic Society 44 (2024) 6771-6776.
-  - >-
-    (*)(D) Capponi L, Padovan A, Elliott GS, Panesi M, Bodony DJ, Panerai
-    F. Multi-domain analysis and prediction of inductively coupled plasma
-    jet dynamics via high-speed imaging of visible light emission.
-    Experimental Thermal and Fluid Sciences 157 (2024) 111232.
-  - >-
-    (*)(W)(!)(D) Konnik MT, Oldham T, Panerai F, Stephani KA. The effect of
-    nitrogen on the isothermal oxidation of substoichiometric zirconium
-    carbide: microstructural and spectroscopic investigations. Ceramics
-    International 50 (2024) 26596-26606.
-  - >-
-    (*)(W) Phillippe C, Panerai F, Villafane Roca L. In Situ Imaging of
-    Parachute Textile Micro-Mechanics Under Tensile Load. AIAA Journal 62
-    (2024) 4691-4700.
-  - >-
-    (*)(W)(D) Anderson NA, Zolfaghari P, Bhattacharya S, Capponi L, Oldham
-    T, Sankaran RM, Elliott GS, Panerai F. Flow reactor experiments of
-    graphite oxidation and nitridation. High Temperature Corrosion of
-    Materials 101 (2024) 185-201.
-  - >-
-    (*) Lahouze F, Jomaa W, Metayer C, Meyer M, Panerai F, Lachaud J.
-    Pyromechanics: A solid mechanics approach to deformation during
-    pyrolysis. Fuel 390 (2025) 134557.
-  - >-
-    (*)(W)(!) Foster CW, Oruganti V, Panerai F. Super-Resolved
-    Microstructure of Pyrolyzing Superlight Ablators. npj Materials
-    Degradation 9:9 (2025).
-  - >-
-    (*)(W)(D) Konnik MT, Capponi L, Oldham T, Panerai F, Stephani K.
-    Environmental response characteristics of substoichiometric ZrCx under
-    inductively coupled air plasma. Journal of the European Ceramic
-    Society 45 (2025) 117491.
-  - >-
-    (*)(W)(!) Ringel BM, Semeraro F, Ferguson J, Barnard HS, Dias B,
-    Schlepuetz C, Barnard ES, Schickler S, Levy K, Shacterman S,
-    Benioff-White T, Davis J, McDowell AA, Parkinson DY, Panerai F. Carbon
-    Fiber Oxidation in 4D. Advanced Materials (2025) 2502007.
-  - >-
-    (*)(W) Ghasimi SD, Rabinovitch J, Chacon L, Poovathingal S, Philippe
-    CA, Foster CW, Villafane Roca L, Panerai F, As'ad F, Avery P, Farhat C,
-    Lobbia M, Ataei N. Permeability Modeling of Mars Parachute Broadcloth
-    Materials. AIAA Journal 63 (2025) 3967-3984.
-  - >-
-    (*)(W) Arias V, Chen S, Haskins JB, Panerai F, Johnson HT, Stephani KA.
-    Modeling the Effect of Pitting on the Tensile Behavior of Amorphous
-    Carbon and Carbon Fiber. Carbon Trends 20 (2025) 100549.
-  - >-
-    (*)(W)(D) Puttini R, Capponi L, Franco M, Mansfield E, Elliott GS,
-    Rossi G, Panerai F. Multi-View High-Speed Imaging of Visible Light
-    Emission in Inductively Coupled Plasma Jet Dynamics. Experimental
-    Thermal and Fluid Science 172 (2025) 111652.
-  - >-
-    (*)(W)(!) Ringel BM, Boesch HJ, Oruganti S, Villafane Roca L, Panerai
-    F. Unsteady spallation of low-density carbon fiber ablators. Carbon
-    248 (2026) 121113.
-  - >-
-    (*)(W) Kirmanoglu K, Aderson N, Panerai F, Stephani KA, Freund JB.
-    Bayesian Model Selection for Graphite Oxidation by Molecular Oxygen
-    Informed by New Data. Carbon (2026). 121877.
+  "2026":
+    - >-
+      Ringel BM, Boesch HJ, Oruganti S, Villafane Roca L, Panerai F. Unsteady
+      spallation of low-density carbon fiber ablators. Carbon 248 (2026) 121113.
+    - >-
+      Kirmanoglu K, Aderson N, Panerai F, Stephani KA, Freund JB. Bayesian Model
+      Selection for Graphite Oxidation by Molecular Oxygen Informed by New Data.
+      Carbon (2026). 121877.
+  "2025":
+    - >-
+      Lahouze F, Jomaa W, Metayer C, Meyer M, Panerai F, Lachaud J. Pyromechanics:
+      A solid mechanics approach to deformation during pyrolysis. Fuel 390 (2025)
+      134557.
+    - >-
+      Foster CW, Oruganti V, Panerai F. Super-Resolved Microstructure of
+      Pyrolyzing Superlight Ablators. npj Materials Degradation 9:9 (2025).
+    - >-
+      Konnik MT, Capponi L, Oldham T, Panerai F, Stephani K. Environmental
+      response characteristics of substoichiometric ZrCx under inductively coupled
+      air plasma. Journal of the European Ceramic Society 45 (2025) 117491.
+    - >-
+      Ringel BM, Semeraro F, Ferguson J, Barnard HS, Dias B, Schlepuetz C, Barnard
+      ES, Schickler S, Levy K, Shacterman S, Benioff-White T, Davis J, McDowell
+      AA, Parkinson DY, Panerai F. Carbon Fiber Oxidation in 4D. Advanced
+      Materials (2025) 2502007.
+    - >-
+      Ghasimi SD, Rabinovitch J, Chacon L, Poovathingal S, Philippe CA, Foster CW,
+      Villafane Roca L, Panerai F, As'ad F, Avery P, Farhat C, Lobbia M, Ataei N.
+      Permeability Modeling of Mars Parachute Broadcloth Materials. AIAA Journal
+      63 (2025) 3967-3984.
+    - >-
+      Arias V, Chen S, Haskins JB, Panerai F, Johnson HT, Stephani KA. Modeling
+      the Effect of Pitting on the Tensile Behavior of Amorphous Carbon and Carbon
+      Fiber. Carbon Trends 20 (2025) 100549.
+    - >-
+      Puttini R, Capponi L, Franco M, Mansfield E, Elliott GS, Rossi G, Panerai F.
+      Multi-View High-Speed Imaging of Visible Light Emission in Inductively
+      Coupled Plasma Jet Dynamics. Experimental Thermal and Fluid Science 172
+      (2025) 111652.
+  "2024":
+    - >-
+      Padovan A, Vollmer B, Panerai F, Panesi M, Stephani KA, Bodony DJ. A
+      Modified B' Formulation for Ablating-Surface Boundary Conditions.
+      International Journal of Heat and Mass Transfer 218 (2024) 124770.
+    - >-
+      Mansour NN, Panerai F, Lachaud J. Flow Mechanics in Ablative Thermal
+      Protection Systems. Annual Review of Fluid Mechanics 56 (2024) 549-575.
+    - >-
+      Konnik MT, Oldham T, Le Maout V, Rzepka A, Hecht DH, Stephani KA, Panerai F.
+      High-temperature oxidation and nitridation of substoichiometric zirconium
+      carbide in isothermal air. Journal of the European Ceramic Society 44 (2024)
+      6771-6776.
+    - >-
+      Capponi L, Padovan A, Elliott GS, Panesi M, Bodony DJ, Panerai F. Multi-
+      domain analysis and prediction of inductively coupled plasma jet dynamics
+      via high-speed imaging of visible light emission. Experimental Thermal and
+      Fluid Sciences 157 (2024) 111232.
+    - >-
+      Konnik MT, Oldham T, Panerai F, Stephani KA. The effect of nitrogen on the
+      isothermal oxidation of substoichiometric zirconium carbide: microstructural
+      and spectroscopic investigations. Ceramics International 50 (2024)
+      26596-26606.
+    - >-
+      Phillippe C, Panerai F, Villafane Roca L. In Situ Imaging of Parachute
+      Textile Micro-Mechanics Under Tensile Load. AIAA Journal 62 (2024)
+      4691-4700.
+    - >-
+      Anderson NA, Zolfaghari P, Bhattacharya S, Capponi L, Oldham T, Sankaran RM,
+      Elliott GS, Panerai F. Flow reactor experiments of graphite oxidation and
+      nitridation. High Temperature Corrosion of Materials 101 (2024) 185-201.
+  "2023":
+    - >-
+      Meurisse JBE, Bellas Chatzigeorgis G, Ventura Diaz P, Bessire BK, Panerai F,
+      and Mansour NN. Equilibrium model for the ablation response of silicone-
+      coated PICA. International Journal of Heat and Mass Transfer 201 (2023)
+      123523.
+    - >-
+      Oruganti S, Mansour NN, Panesi M, and Panerai F. Microstructure of
+      Pyrolyzing RTV Silicone. Polymer Degradation and Stability 207 (2023)
+      110237.
+    - >-
+      Foster CW, Oruganti S, and Panerai F. Real-time quantitative imaging of RTV
+      silicone pyrolysis. Polymer Degradation and Stability 214 (2023) 1104403.
+    - >-
+      Foster CW, Collins LN, Panerai F, Roberts SA. Assessing thermophysical
+      properties of parameterized woven composite models using image-based
+      simulations. Composites Science and Technology (2023) 110136.
+  "2022":
+    - >-
+      Ferguson JC, Borner A, Panerai F, Close S, and Mansour NN. Continuum to
+      rarefied diffusive tortuosity factors in porous media from X-ray
+      microtomography. Computational Materials Science 203 (2022) 111030.
+    - >-
+      Konnik MT, Panerai F, and Stephani K. The role of impurities and degradation
+      on the thermal conductivity of carbon fiber and amorphous carbon. Carbon
+      Trends 7 (2022) 100151.
+    - >-
+      Swaminathan Gopalan K, Borner A, Ferguson J, Panerai F, Mansour NN, and
+      Stephani K. Gas-surface interactions in lightweight fibrous carbon
+      materials. Computational Materials Science 205 (2022) 111190.
+    - >-
+      Price KJ, Panerai F, Borchetta CG, Hardy JM, Martin A, and Bailey SCC. Arc-
+      jet measurements of low-density ablator spallation. Experimental Thermal and
+      Fluid Science 133 (2022) 110544.
+  "2021":
+    - >-
+      Semeraro F, Ferguson JC, Acin M, Panerai F, and Mansour NN. Anisotropic
+      analysis of fibrous and woven materials part 2: Computation of effective
+      conductivity. Computational Materials Science 186 (2021) 109956.
+    - >-
+      Ferguson JC, Semeraro F, Thornton JM, Panerai F, and Mansour NN. Update 3.0
+      to "PuMA: The Porous Microstructure Analysis software", (PII:
+      S2352711018300281). SoftwareX 15 (2021) 100775.
+    - >-
+      Panerai F, Bessire BK, Haskins JB, Foster CW, Stern EC, Barnard HS, and
+      Feldman JD. Morphological Evolution of Ordinary Chondrite Microstructure
+      During Heating: Implications for Atmospheric Entry. Planetary Science
+      Journal 2(5) (2021) 179.
+  "2020":
+    - >-
+      Torres-Herrador F, Coheur J, Panerai F, Blondeau J, Magin TE, and Mansour
+      NN. Competitive kinetic model for the pyrolysis of the Phenolic Impregnated
+      Carbon Ablator. Aerospace Science and Technology 100 (2020) 105784.
+    - >-
+      Semeraro F, Ferguson JC, Panerai F, and Mansour NN. Anisotropic analysis of
+      fibrous and woven materials part 1: Estimation of local orientation.
+      Computational Materials Science 178 (2020) 109631.
+    - >-
+      Barry C, Panerai F, Bergeron K, Stapleton S, and Sherwood J. Mesomechanical
+      Modeling of Braided Cords. Procedia Manufacturing 47 (2020) 162-168.
+  "2019":
+    - >-
+      Jambunathan R, Levin DA, Borner A, Ferguson JC, and Panerai F. Prediction of
+      gas transport properties through fibrous carbon preform microstructures
+      using Direct Simulation Monte Carlo. International Journal of Heat and Mass
+      Transfer 130 (2019) 923-937.
+    - >-
+      Panerai F, Cochell T, Martin A, and White JD. Experimental measurements of
+      the high-temperature oxidation of carbon fibers. International Journal of
+      Heat and Mass Transfer 136 (2019) 972-986.
+    - >-
+      Torres-Herrador F, Meurisse JBE, Panerai F, Blondeau J, Lachaud J, Bessire
+      BK, Magin TE, and Mansour NN. A high heating rate pyrolysis model for the
+      Phenolic Impregnated Carbon Ablator (PICA) based on mass spectroscopy
+      experiments. Journal of Analytical and Applied Pyrolysis 141 (2019) 104625.
+    - >-
+      MacNeil JML, Ushizima DM, Panerai F, Mansour NN, Barnard HS, and Parkinson
+      DY. Interactive volumetric segmentation for textile micro-tomography data
+      using wavelets and nonlocal means. Statistical Analysis and Data Mining: The
+      ASA Data Science Journal 12(4) (2019) 338-353.
+  "before_2019":
+    - >-
+      Panerai F and Chazot O. Characterization of gas/surface interactions for
+      ceramic matrix composites in high enthalpy, low pressure air flow. Materials
+      Chemistry and Physics 134 (2012) 597-607.
+    - >-
+      Marschall J, Pejakovic D, Fahrenholtz WG, Hilmas GE, Panerai F, and Chazot
+      O. Temperature Jump Phenomenon During Plasmatron Testing of ZrB2-SiC
+      Ultrahigh-Temperature Ceramics. Journal of Thermophysics and Heat Transfer
+      26(4) (2012) 559-72.
+    - >-
+      Panerai F, Helber B, Chazot O, and Balat-Pichelin M. Surface temperature
+      jump beyond active oxidation of carbon/silicon carbide composites in extreme
+      aerothermal conditions. Carbon 71 (2014) 102-119.
+    - >-
+      Panerai F, Martin A, Mansour NN, Sepka SA, and Lachaud J. Flow-Tube
+      Oxidation Experiments on the Carbon Preform of a Phenolic-Impregnated Carbon
+      Ablator. Journal of Thermophysics and Heat Transfer 28 (2014) 181-190.
+    - >-
+      Cipullo A, Helber B, Panerai F, Chazot O, and Zeni L. Investigation of
+      Freestream Plasma Flow Produced by Inductively Coupled Plasma Wind Tunnel.
+      Journal of Thermophysics and Heat Transfer 28 (2014) 381-393.
+    - >-
+      Panerai F, Helber B, Chazot O, Balat-Pichelin M, and Nickel K. Aerothermal
+      response of ceramic matrix composites to nitrogen plasma at temperatures
+      above 2000 K. Aerospace Science and Technology 39 (2014) 1-5.
+    - >-
+      Panerai F, Marschall J, Thoemel J, Vandendael I, Hubin A, and Chazot O. Air
+      plasma-material interactions at the oxidized surface of the PM1000 nickel-
+      chromium superalloy. Applied Surface Science 316 (2014) 385-397.
+    - >-
+      Balat-Pichelin M, Charpentier L, Panerai F, Chazot O, Helber B, and Nickel
+      K. Passive/active oxidation transition for CMC structural materials designed
+      for the IXV vehicle re-entry phase. Journal of the European Ceramic Society
+      35 (2015) 487-502.
+    - >-
+      Wong HW, Peck J, Bonomi RE, Assif J, Reinisch G, Panerai F, Lachaud J, and
+      Mansour NN. Quantitative determination of species production from the
+      pyrolysis of a phenol-formaldehyde resin. Polymer Degradation and Stability
+      112 (2015) 122-131.
+    - >-
+      Ferguson J, Panerai F, Lachaud J, Martin A, Bailey SCC, and Mansour NN.
+      Modeling the oxidation of low-density carbon fiber material based on micro-
+      tomography. Carbon 96 (2016) 57-65.
+    - >-
+      Nouri N, Panerai F, Tagavi KA, Mansour NN, and Martin A. Evaluation of the
+      anisotropic radiative conductivity of a low-density carbon fiber material
+      from realistic microscale imaging. International Journal of Heat and Mass
+      Transfer 95 (2016) 535-539.
+    - >-
+      Omidy AD, Panerai F, Lachaud JR, Mansour NN, and Martin A. Effects of water
+      phase change on the material response of low-density carbon-phenolic
+      ablators. Journal of Thermophysics and Heat Transfer 30 (2016) 473-478.
+    - >-
+      Martin A, Bailey SCC, Panerai F, Davuluri RSC, Vazsonyi AR, Zhang H, Lippay
+      ZS, Mansour NN, Inman JA, Bathel BF, Splinter SC, and Danehy PM. Numerical
+      and experimental analysis of the spallation phenomena. CEAS Space Journal 8
+      (2016) 229-236.
+    - >-
+      Panerai F, White JD, Cochell TJ, Schroeder OM, Mansour NN, Wright MJ, and
+      Martin A. Experimental measurements of the permeability of fibrous carbon at
+      high temperature. International Journal of Heat and Mass Transfer 101 (2016)
+      267-273.
+    - >-
+      Wong HW, Peck J, Assif J, Panerai F, Lachaud J, and Mansour NN. Detailed
+      analysis of species production from the pyrolysis of the Phenolic
+      Impregnated Carbon Ablator. Journal of Analytical and Applied Pyrolysis 122
+      (2016) 258-267.
+    - >-
+      Viladegut A, Panerai F, Chazot O, Pichon T, Bertrand P, Verdy C, and Coddet
+      C. Design, integration and preliminary results of the IXV Catalysis
+      experiment. CEAS Space Journal 9 (2017) 141-151.
+    - >-
+      Borner A, Panerai F, and Mansour NN. High-temperature permeability of
+      fibrous materials using direct simulation Monte Carlo. International Journal
+      of Heat and Mass Transfer 106 (2017) 1318-1326.
+    - >-
+      Sanson F, Villedieu N, Panerai F, Chazot O, Magin T, and Congedo P.
+      Uncertainty quantification for the characterization of reusable material
+      catalytic property. Experimental Thermal and Fluid Science 82 (2017)
+      414-423.
+    - >-
+      Panerai F, Ferguson J, Lachaud J, Martin A, Gasch MJ, and Mansour NN. Micro-
+      tomography based analysis of thermal conductivity, diffusivity and oxidation
+      behavior of rigid and flexible fibrous insulators. International Journal of
+      Heat and Mass Transfer 108 (2017) 801-811.
+    - >-
+      Vanaerschot A, Panerai F, Cassell A, Lomov SV, Vandepitte D, and Mansour NN.
+      Stochastic characterisation methodology for 3-D textiles based on micro-
+      tomography. Composite Structures 173 (2017) 44-52.
+    - >-
+      Ferguson J, Panerai F, Lachaud J, and Mansour NN. Theoretical study on the
+      micro-scale oxidation of resin-infused carbon ablators. Carbon 121 (2017)
+      552-562.
+    - >-
+      Bailey SCC, Bauer D, Panerai F, Splinter SC, Danehy PM, Hardy JM, and Martin
+      A. Experimental analysis of spallation particle trajectories in an arc-jet
+      environment. Experimental Thermal and Fluid Science 93 (2018) 319-325.
+    - >-
+      Meurisse JBE, Lachaud J, Panerai F, Tang C, and Mansour NN. Multidimensional
+      material response simulations of a full-scale tiled ablative heatshield.
+      Aerospace Science and Technology 76 (2018) 497-511.
+    - >-
+      Ferguson JC, Panerai F, Boner A, and Mansour NN. PuMA: the Porous
+      Microstructure Analysis software. SoftwareX 7 (2018) 81-87.
+    - >-
+      Sanson F, Panerai F, Magin T, and Congedo P. Robust reconstruction of the
+      catalytic properties of thermal protection materials from sparse high-
+      enthalpy facility experimental data. Experimental Thermal and Fluid Science
+      96 (2018) 482-492.
 
 conference_proceedings:
-  - >-
-    (S) Panerai F, Thoemel J, Chazot O. Ground test investigation on a
-    thermal protection system junction. 6th European Symposium on
-    Aerothermodynamics for Space Vehicles, Versailles, France, November
-    2008. ESA SP-659.
-  - >-
-    (S) Panerai F, Thoemel J, Chazot O. Thermal protection material
-    characterization in ground plasma testing. 41st AIAA Thermophysics
-    Conference, San Antonio, TX, USA, June 2009. AIAA 2009-4094.
-  - >-
-    (S) Panerai F, Chazot O, Tagliaferri E, Rossi G. Testing of the EXPERT
-    thermal protection system junction in a plasma wind tunnel. 16th
-    AIAA/DLR/DGLR International Space Planes and Hypersonics Systems and
-    Technology Conference, Bremen, Germany, October 2009. AIAA 2009-7243.
-  - >-
-    (**)(S) Chazot O, Panerai F, Muylaert JM, Thoemel J. Catalysis
-    phenomena determination in Plasmatron facility for in-flight
-    experiment design (invited). 48th AIAA Aerospace Sciences Meeting
-    Including the New Horizons Forum and Aerospace Exposition, Orlando, FL,
-    USA, January 2010. AIAA 2010-124.
-  - >-
-    (S) Asma CO, Helber B, Di Lello L, Panerai F, Magin TE. Infrared
-    thermography measurements on ablative thermal protection systems for
-    interplanetary space vehicles. 10th Quantitative InfraRed Thermography
-    (QIRT) Conference, Quebec, Canada, July 2010.
-  - >-
-    (S) Panerai F, Chazot O. Plasma wind tunnel testing as support to the
-    design of gas-surface interaction in-flight experiments. 17th AIAA
-    International Space Planes and Hypersonic Systems and Technologies
-    Conference, San Francisco, CA, USA, April 2011. AIAA 2011-2276.
-  - >-
-    (S) Chazot O, Panerai F, Van Der Haegen V. Off-stagnation point testing
-    and methodology in plasma wind tunnel. 17th AIAA International Space
-    Planes and Hypersonic Systems and Technologies Conference, San
-    Francisco, CA, USA, April 2011. AIAA 2011-2210.
-  - >-
-    (S) Villedieu N, Panerai F, Chazot O, Magin TE. Uncertainty
-    quantification for gas-surface interaction in plasmatron facility. 7th
-    European Symposium on Aerothermodynamics, Brugge, Belgium, May 2011.
-    ESA SP-692.
-  - >-
-    (S) Panerai F, Helber B, Sakraker I, Chazot O, Pichon T, Barreteau R,
-    Tribot JP, Vallee JJ, Mareschi V, Ferrarella D, Rufolo G, Mancuso S.
-    Characterization of the IXV thermal protection system in high enthalpy
-    plasma flow. 7th European Symposium on Aerothermodynamics, Brugge,
-    Belgium, May 2011. ESA SP-692.
-  - >-
-    (S) Del Vecchio A, Gardi R, Reimer T, Atxaga G, Chazot O, Panerai F.
-    Thermostructural characterization of materials of the EXPERT capsule.
-    7th European Symposium on Aerothermodynamics, Brugge, Belgium, May
-    2011. ESA SP-692.
-  - >-
-    (S) Chazot O, Panerai F, Marotta M. Ground testing for GSI database,
-    what do we determine? 7th European Symposium on Aerothermodynamics,
-    Brugge, Belgium, May 2011. ESA SP-692.
-  - >-
-    (S) Chazot O, Panerai F, Van Der Haegen V. Aerothermochemistry testing
-    for lifting reentry vehicles. 7th European Symposium on
-    Aerothermodynamics, Brugge, Belgium, May 2011. ESA SP-692.
-  - >-
-    (S) Helber B, Babou Y, Panerai F, Asma CO, Hubin A, Magin TE.
-    Investigation of the gas-surface interaction of innovative carbon
-    composite ablators in the VKI Plasmatron. 7th European Symposium on
-    Aerothermodynamics, Brugge, Belgium, May 2011. ESA SP-692.
-  - >-
-    (S) Panerai F, Chazot O, Helber B. Gas/surface interaction study on
-    ceramic matrix composite thermal protection system in the VKI
-    Plasmatron facility. 42nd AIAA Thermophysics Conference, Honolulu, HI,
-    USA, June 2011. AIAA 2011-3642.
-  - >-
-    (S) Sakraker I, Asma CO, Panerai F. Experimental study on the
-    passive-active oxidation transition of the Fast20XX Spaceliner thermal
-    protection system. 4th European Conference for Aerospace Sciences
-    (EUCASS), Saint Petersburg, Russia, July 2011. Paper no. 274.
-  - >-
-    (S) Panerai F, Chazot O, Barreteau R, Pichon T. Aerothermochemistry
-    testing of a ceramic matrix composite TPS for a lifting reentry
-    vehicle. 4th European Conference for Aerospace Sciences (EUCASS),
-    Saint Petersburg, Russia, July 2011. Paper no. 618.
-  - >-
-    (S) Coluzzi P, Panerai F, Delfini A, Albano M, Vassalli C, Agostinelli
-    F, Iannelli S, Viotto R, Chazot O, Marchetti M. Emissivity
-    characterization of carbon silicon carbide composites for TPS through
-    plasma wind tunnel tests: experimental validation. 63rd International
-    Astronautical Congress, Napoli, Italy, October 2012.
-  - >-
-    Mansour NN, Panerai F, Martin A, Parkinson DY, MacDowell AA, Haboub A,
-    Sandstrom T, Fast A, Vignoles GL, Lachaud J. A new approach to
-    light-weight ablators analysis: from micro-tomography measurements to
-    statistical analysis and modeling. 44th AIAA Thermophysics Conference,
-    San Diego, CA, USA, June 2013. AIAA 2013-2768.
-  - >-
-    Panerai F, Martin A, Mansour NN, Sepka SA, Lachaud J. Flow-tube
-    oxidation experiments on the carbon preform of PICA. 44th AIAA
-    Thermophysics Conference, San Diego, CA, USA, June 2013. AIAA 2013-2769.
-  - >-
-    Panerai F, Mansour NN, Lachaud J, Martin A. Experimental and Numerical
-    Study of Carbon Fiber Oxidation. 52nd AIAA Aerospace Sciences Meeting,
-    National Harbor, MD, USA, January 2014. AIAA 2014-1208.
-  - >-
-    (S) Viladegut A, Panerai F, Chazot O, Pichon T, Bertrand P, Verdy C,
-    Coddet C. Flying catalysis in lifting atmospheric entry: design
-    integration of the IXV catalysis experiment. 8th European Symposium on
-    Aerothermodynamics for Space Vehicles, Lisbon, Portugal, March 2015.
-    Paper no. 84839.
-  - >-
-    (S) Balat-Pichelin M, Charpentier L, Panerai F, Chazot O, Helber B,
-    Nickel KG. Oxidation at high temperature in air plasma for the TPS of
-    IXV: Passive/active transition and temperature jump. 8th European
-    Symposium on Aerothermodynamics for Space Vehicles, Lisbon, Portugal,
-    March 2015. Paper no. 88723.
-  - >-
-    Martin A, Bailey SCC, Panerai F, Davuluri RSC J, Vazsonyi AR, Zhang H,
-    Lippay ZS, Mansour NN, Inman JA, Bathel BF, Splinter SC, Danahey, PM.
-    Preliminary numerical and experimental analysis of the spallation
-    phenomenon. 8th European Symposium on Aerothermodynamics for Space
-    Vehicles, Lisbon, Portugal, March 2015. Paper no. 88621.
-  - >-
-    Panerai F, Ferguson JC, Lachaud J, Martin A, Gasch MJ, Mansour NN.
-    Analysis of fibrous felts for flexible ablators using synchrotron hard
-    X-ray micro-tomography. 8th European Symposium on Aerothermodynamics
-    for Space Vehicles, Lisbon, Portugal, March 2015. Paper no. 89747.
-  - >-
-    Butler BD, Winter M, Panerai F, Martin A, Bailey SCC, Stackpoole M,
-    Danehy PM, Splinter SC. Characterization of Candidate Materials for
-    Remote Recession Measurements of Ablative Heat Shield Materials. 54th
-    AIAA Aerospace Science Meeting, San Diego, CA, USA, January 2016. AIAA
-    2016-1516.
-  - >-
-    Winter M, Butler BD, Diao Z, Panerai F, Martin A, Bailey SCC, Danehy
-    PM, Splinter SC. Characterization of Ablation Product Radiation
-    Signatures of PICA and FiberForm, 46th AIAA Thermophysics Conference,
-    Washington, DC, USA, June 2016. AIAA 2016-3233.
-  - >-
-    MacDowell AA, Barnard HS, Parkinson DY, Haboub A, Larson N, Zok F,
-    Panerai F, Mansour NN, Bale H, Gludovatz B, Acevedo C, Liu D, Ritchie
-    RO. High temperature X-ray micro-tomography, AIP Conference
-    Proceedings 1741 (2016) 050005.
-  - >-
-    Borner A, Swaminathan-Gopalan K, Stephani KA, Murray V, Poovathingal
-    SJ, Minton TK, Panerai F, Mansour NN. DSMC Analysis of Molecular Beam
-    Experiments on Light-Weight Carbon Preform Ablators, 47th AIAA
-    Thermophysics Conference, Denver, CO, USA, June 2017. AIAA 2017-3687.
-  - >-
-    Panerai F, Borner A, Ferguson JC, Mansour NN, Barnard HS, MacDowell AA,
-    Parkinson DY. X-Ray Micro-Tomography Applied to NASA's Materials
-    Research: Heat Shields, Parachutes and Asteroids, 3rd International
-    Conference on Tomography of Materials & Structures, Lund, Sweden, June
-    2017. ICTMS2017-135.
-  - >-
-    Ferguson JC, Panerai F, Borner A, Mansour NN. The Porous Materials
-    Analysis open-source software for material properties and response
-    based on micro-tomography, 3rd International Conference on Tomography
-    of Materials & Structures, Lund, Sweden, June 2017. ICTMS2017-137.
-  - >-
-    Jambunathan R, Borner A, Ferguson JC, Panerai F, Levin DA. Prediction
-    of thermal protection system material permeability and tortuosity
-    factor using Direct Simulation Monte Carlo, 2018 AIAA Aerospace Science
-    Meeting, Kissimmee, FL, USA, January 2018. AIAA 2018-0497.
-  - >-
-    Barnard HS, Macdowell AA, Parkinson DY, Larson NM, Peterson JC, Panerai
-    F, Mansour NN, Gao Y. Synchrotron X-ray Micro Tomography at the
-    Advanced Light Source: In-Situ Sample Environments for Advanced
-    Aerospace Materials. Microscopy and Microanalysis 24 (S2) (2018),
-    444-445.
-  - >-
-    Ventura Diaz P, Yoon S, Panerai F, Mansour NN. Simulation of HyMETS
-    Flowfield around Baby-SPRITE Entry Probe, AIAA Aviation 2019 Forum,
-    Dallas, TX, USA, June 2019. AIAA 2019-3262.
-  - >-
-    Torres-Herrador F, Coheur J, Magin TE, Blondeau J, Meurisse JBE,
-    Panerai F, Lachaud J, Mansour NN. Comparison between traditional and
-    competitive reaction models for the pyrolysis of high temperature
-    aerospace materials, AIAA Aviation 2019 Forum, Dallas, TX, USA, June
-    2019. AIAA 2019-3361.
-  - >-
-    MacNeil JML, Morozov D, Panerai F, Parkinson D, Barnard H, Ushizima D.
-    Distributed Global Digital Volume Correlation by Optimal Transport,
-    2019 IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop
-    Computing (XLOOP), Denver, CO, USA, November 2019.
-  - >-
-    Price KJ, Hardy JM, Borchetta CG, Bailey SCC, Martin A, Panerai F.
-    Analysis of spallation products using arc-jet experiments, AIAA SciTech
-    Forum, Orlando, FL, USA, January 2020. AIAA 2019-1707.
-  - >-
-    Barry CP, Panerai F, Bergeron K, Charette C, Noetscher G, Stapleton SE,
-    Willis DJ, Sherwood JA. Modeling Tensile Tests of a Braided Parachute
-    Suspension Line using a Mesomechanical Finite Element Model, AIAA
-    SciTech Forum, Orlando, FL, USA, January 2020. AIAA 2020-1312.
-  - >-
-    Barry CP, Panerai F, Bergeron K, Charette C, Noetscher G, Stapleton SE,
-    Willis DJ, Sherwood JA. Mesomechanical Modeling of the Mechanical
-    Behavior of Parachute Suspension Lines using LS-DYNA, 16th
-    International LS-DYNA Conference, Virtual Event, June 2020.
-  - >-
-    Price KJ, Bailey SCC, Panerai F, Hardy JM, Borchetta CG, Martin A.
-    Spallation particle size analysis resulting from arc-jet experiments,
-    AIAA Aviation Forum, Virtual Event, June 2020. AIAA 2020-3279.
-  - >-
-    (W) Rzepka AE, Konnik MT, Stephani KA, Foster CW, Panerai F. Modeling
-    and Characterization of Zirconium-Carbide Carbon-Fiber Oxidation at
-    Hypersonic Conditions, 2021 Hypersonic Technology & Systems Conference,
-    Virtual Event, October 2021.
-  - >-
-    (W) Anderson NA, Bhattacharya S, Kirmanoglu KK, Stephani KA, Elliott
-    GS, Sankaran RM, Panerai F. High-temperature oxidation of graphite
-    under non-thermal oxygen plasma, AIAA SciTech Forum, San Diego, CA,
-    USA, January 2022. AIAA 2022-0114.
-  - >-
-    (W) Konnik MT, Panerai F, Stephani KA. Influence of impurities and
-    degradation on carbon fiber and amorphous carbon thermal conductivity,
-    AIAA SciTech Forum, San Diego, CA, USA, January 2022. AIAA 2022-0115.
-  - >-
-    (W) Kirmanoglu K, Anderson NA, Panerai F, Stephani KA, Ferguson JC,
-    Close S. Simulating Oxidation of Carbon Surfaces by Atomic Oxygen
-    Coupled with a Finite Rate Oxidation Model, AIAA SciTech Forum, San
-    Diego, CA, USA, January 2022. AIAA 2022-0674.
-  - >-
-    (D) Munafo A, Chiodi R, Kumar S, Le Maout V, Stephani KA, Panerai F,
-    Bodony DJ, Panesi M. A Multi-Physics Modeling Framework for
-    Inductively Coupled Plasma Wind Tunnels, AIAA SciTech Forum, San Diego,
-    CA, USA, January 2022. AIAA 2022-1011.
-  - >-
-    (W) Varona HX, Faibussowitsch J, Stephani KA, Johnson HT, Elliott GS,
-    Freund JB, Panerai F. Mechanical response of isotropic graphite due to
-    oxidation induced degradation, AIAA SciTech Forum, San Diego, CA, USA,
-    January 2022. AIAA 2022-1643.
-  - >-
-    (D) Le Maout V, Panerai F, Stephani KA. A Volume Averaged Model for
-    Heterogeneous Chemical Reactions in Zirconium Carbide High Temperature
-    Ceramics, AIAA SciTech Forum, San Diego, CA, USA, January 2022. AIAA
-    2022-1858.
-  - >-
-    (W) Foster CW, Panerai F, Collins LN, Roberts SA. Semi-supervised and
-    Deep Learning Segmentation of X-ray Computed Tomography of Woven
-    Composites, 5th International Conference on Tomography of Materials &
-    Structures, Grenoble, France, June 2022.
-  - >-
-    (W) Oruganti S, Mansour NN, Panesi M, Panerai F. Thermal Decomposition
-    of Ablating Gap Filler Material for Atmospheric Entry Heatshields,
-    AIAA AVIATION 2022, Chicago, IL, USA, June 2022. AIAA 2022-3731.
-  - >-
-    (W) Ringel BM, Panerai F, Helber B, Fagnani A, Turchi A. Ablation of
-    carbon thermal protection system materials in high enthalpy air
-    plasma, AIAA AVIATION 2022, Chicago, IL, USA, June 2022. AIAA 2022-3947.
-  - >-
-    (W) Phillippe C, Mattei M, Villafane Roca L, Panerai F. In-Situ
-    Micro-scale Characterization of Parachute Textiles with
-    Micro-Tomography and Machine Learning, AIAA SCITECH 2023, National
-    Harbor, MD, USA, January 2023. AIAA 2023-0141.
-  - >-
-    (W) Mattei M, Phillippe C, Panerai F, Villafane Roca L. Subscale Wind
-    Tunnel Testing of Parachutes: Effects of Design Shape on Drag and
-    Canopy Breathing, AIAA SCITECH 2023, National Harbor, MD, USA, January
-    2023. AIAA 2023-0462.
-  - >-
-    (W) Bessire BK, Martin A, Renfro MW, Bailey SCC, Price K, Chen S,
-    Panerai F. An Overview of Experiments in The Entry Systems Modeling
-    Project, AIAA SCITECH 2023, National Harbor, MD, USA, January 2023.
-    AIAA 2023-1337.
-  - >-
-    (W)(D) Capponi L, Oldham T, Konnik MT, Stephani KA, Bodony DJ, Panesi
-    M, Elliott GS, Panerai F. Aerothermal characterization of the
-    Plasmatron X Wind Tunnel: Heat flux, Stagnation Pressure and Jet
-    Unsteadiness, AIAA SCITECH 2023, National Harbor, MD, USA, January
-    2023. AIAA 2023-1338.
-  - >-
-    (W)(D) Oldham T, Capponi L, Konnik MT, Stephani KA, Bodony DJ, Panesi
-    M, Elliott GS, Panerai F. Aerothermal characterization of the
-    Plasmatron X Wind Tunnel: Optical Emission Spectroscopy and Jet
-    Temperature Reconstruction, AIAA SCITECH 2023, National Harbor, MD,
-    USA, January 2023. AIAA 2023-2516.
-  - >-
-    (W)(D) Oruganti S, Le Maout V, Kumar S, Capponi L, Panesi M, Panerai F.
-    Modeling of high enthalpy test article assemblies with instrumented
-    thermocouples in the Plasmatron X aerothermal environment. In AIAA
-    AVIATION 2023 Forum, San Diego, CA, USA, June 2023. AIAA 2023-3327.
-  - >-
-    (W) Chen S, Arias V, Stephani K, Panerai F, Bessire B. Microstructure
-    and Oxidation Behavior of Fibers and Binders in Charring Ablators. In
-    AIAA AVIATION 2023 Forum, San Diego, CA, USA, June 2023. AIAA 2023-3615.
-  - >-
-    (W) Oruganti S, Foster CW, Panerai F. In-situ imaging of RTV silicone
-    pyrolysis. In AIAA AVIATION 2023 Forum, San Diego, CA, USA, June 2023.
-    AIAA 2023-3616.
-  - >-
-    Bessire BK, Meurisse JB, Panerai F, Mansour NN. Material Response
-    Analysis of PICA-NuSil at the Hypersonic Materials Environmental Test
-    System. In AIAA AVIATION 2023 Forum, San Diego, CA, USA, June 2023.
-    AIAA 2023-3325.
-  - >-
-    Tang K, Panerai F, Freund JB, Sensitivity Analysis for Effective
-    Conductivity of Anisotropic Fibrous Materials, In 5th ECCOMAS Thematic
-    Conference on Uncertainty Quantification in Computational Sciences and
-    Engineering, UNCECOMP 2023, Athens, Greece, June 2023. Code 193216.
-  - >-
-    (W)(D) Ringel BM, Boesch HJ, Oruganti S, Capponi L, Villafane Roca L,
-    Panerai F. Quantification of Spalling Particles for Carbon Thermal
-    Protection System Materials in Supersonic Air and Nitrogen Plasma, In
-    AIAA SCITECH 2024, Orlando, FL, USA, January 2024. AIAA 2024-0649.
-  - >-
-    (W)(D) Oruganti S, Capponi L, Ringel BM, Oldham T, Panesi M, Elliott
-    GS, Panerai F. High-Enthalpy Testing of Thermal Protection Materials in
-    the Plasmatron X for Titan Atmospheric Entry, In AIAA SCITECH 2024,
-    Orlando, FL, USA, January 2024. AIAA 2024-0863.
-  - >-
-    (W) Phillippe C, Villafane Roca L, Panerai F. In-Situ Extraction of
-    Modeling Parameters and Mechanics for Parachute Textiles Under Radial
-    Stress with Micro-Tomography and Machine Learning. In AIAA SCITECH
-    2024, Orlando, FL, USA, January 2024. AIAA 2024-1003.
-  - >-
-    (W)(D) Franco M, Capponi L, Oldham T, Konnik MT, Oruganti S, Elliott
-    GS, Panerai F. Investigation of Slug Calorimeter Heat Flux Measurements
-    in the Plasmatron X Wind Tunnel, In AIAA SCITECH 2024, Orlando, FL,
-    USA, January 2024. AIAA 2024-1900.
-  - >-
-    (W) Anderson NA, Lawless L, Bahn L, Wakefield KD, Tang R, Bentz B,
-    Engerer JD, Panerai F. Solar-Thermal Testing of Ablator Materials in an
-    Atomic Oxygen Plasma, In AIAA SCITECH 2024, Orlando, FL, USA, January
-    2024. AIAA 2024-1689.
-  - >-
-    (W) Jain A, Chen S, Panerai F, Villafane Roca L. Experimental study of
-    the shock structure in a particle-laden underexpanded free jet. In
-    AIAA SCITECH 2024, Orlando, FL, USA, January 2024. AIAA 2024-1981.
-  - >-
-    (W) Dias B, Panerai F, Meurisse JBE, Mansour NN. Numerical simulation
-    of FiberForm using a unified flow-material approach: A comparison with
-    flow-tube reactor experiments. In AIAA AVIATION 2024 Forum, Las Vegas,
-    NV, USA, July 2024. AIAA 2024-3907.
-  - >-
-    (W) Ghasimi SD, Rabinovitch J, Chacon L, Poovathingal SJ, Phillippe C,
-    Foster C, Mattei M, Villafane Roca L, Panerai F, As'ad F, Farhat C,
-    Lobbia M, Ataei N. Permeability Modeling of Mars Parachute Broadcloth
-    Materials. In AIAA AVIATION 2024 Forum, Las Vegas, NV, USA, July 2024.
-    AIAA 2024-4224.
-  - >-
-    (W) Rodarte Ricciardi T, Franco M, Tang K, Varona H, Panerai F, Elliott
-    GS, Freund JB. Combustion Heat Flux Estimation for Design of Carbon
-    Fiber-Based Thermal Protection Systems. In AIAA AVIATION 2024 Forum,
-    Las Vegas, NV, USA, July 2024. AIAA 2024-3813.
-  - >-
-    (W) Lanza D, Franco M, Elliott GS, Panesi M, Panerai F. PlasFlowSolver:
-    An Aerothermodynamic Data Reduction Model for Inductively Coupled
-    Plasma Wind Tunnel Facilities. In AIAA SCITECH 2025, Orlando, FL, USA,
-    January 2025. AIAA 2025-0449.
-  - >-
-    (W)(D) Kearney SP, Oldham T, Panerai F, Elliott GS. Coherent
-    Anti-Stokes Raman Scattering Thermometry and CO Concentration
-    Measurements in Plasmatron X. In AIAA SCITECH 2025, Orlando, FL, USA,
-    January 2025. AIAA 2025-0828.
-  - >-
-    (W) Phillippe C, Ehrhardt D, Panerai F, Villafane Roca L. Flow-Induced
-    Strain of Parachute Textiles With Multiscale Digital Image Correlation.
-    In AIAA SCITECH 2025, Orlando, FL, USA, January 2025. AIAA 2025-2640.
-  - >-
-    (W) Oruganti S, Ringel BM, Panerai F, El Rassi J, Helber B, Fraile
-    Izquierdo S, Mansour NN. Investigation of RTV Silicone Intumescence
-    Under Entry-Relevant Conditions at the VKI Plasmatron, In 3rd
-    International Conference on Flight Vehicles, Aerothermodynamics and
-    Re-entry (FAR 2025), Arcachon, France, May 2025.
-  - >-
-    (W)(D) Lanza D, Franco M, Panerai F. BLAST: Boundary Layer Analysis &
-    Simulation Toolbox for Chemically Reacting Flows. In AIAA SCITECH 2026,
-    Orlando, FL, USA, January 2025. AIAA 2026-2060.
-  - >-
-    (W) LaCombe G, Numann J, Yoo J, Simeni M, Longmire E, Gebre Egziabher
-    D, Oruganti S, Elliott G, Panerai F. On Board Optical Emission Spectra
-    Collection in Plasmatron X Facility for Hycube Missions. In AIAA
-    SCITECH 2026, Orlando, FL, USA, January 2025. AIAA 2026-2060.
+  "2026":
+    - >-
+      Lanza D, Franco M, Panerai F. BLAST: Boundary Layer Analysis & Simulation
+      Toolbox for Chemically Reacting Flows. In AIAA SCITECH 2026, Orlando, FL,
+      USA, January 2025. AIAA 2026-2060.
+    - >-
+      LaCombe G, Numann J, Yoo J, Simeni M, Longmire E, Gebre Egziabher D,
+      Oruganti S, Elliott G, Panerai F. On Board Optical Emission Spectra
+      Collection in Plasmatron X Facility for Hycube Missions. In AIAA SCITECH
+      2026, Orlando, FL, USA, January 2025. AIAA 2026-2060.
+  "2025":
+    - >-
+      Lanza D, Franco M, Elliott GS, Panesi M, Panerai F. PlasFlowSolver: An
+      Aerothermodynamic Data Reduction Model for Inductively Coupled Plasma Wind
+      Tunnel Facilities. In AIAA SCITECH 2025, Orlando, FL, USA, January 2025.
+      AIAA 2025-0449.
+    - >-
+      Kearney SP, Oldham T, Panerai F, Elliott GS. Coherent Anti-Stokes Raman
+      Scattering Thermometry and CO Concentration Measurements in Plasmatron X. In
+      AIAA SCITECH 2025, Orlando, FL, USA, January 2025. AIAA 2025-0828.
+    - >-
+      Phillippe C, Ehrhardt D, Panerai F, Villafane Roca L. Flow-Induced Strain of
+      Parachute Textiles With Multiscale Digital Image Correlation. In AIAA
+      SCITECH 2025, Orlando, FL, USA, January 2025. AIAA 2025-2640.
+    - >-
+      Oruganti S, Ringel BM, Panerai F, El Rassi J, Helber B, Fraile Izquierdo S,
+      Mansour NN. Investigation of RTV Silicone Intumescence Under Entry-Relevant
+      Conditions at the VKI Plasmatron, In 3rd International Conference on Flight
+      Vehicles, Aerothermodynamics and Re-entry (FAR 2025), Arcachon, France, May
+      2025.
+  "2024":
+    - >-
+      Ringel BM, Boesch HJ, Oruganti S, Capponi L, Villafane Roca L, Panerai F.
+      Quantification of Spalling Particles for Carbon Thermal Protection System
+      Materials in Supersonic Air and Nitrogen Plasma, In AIAA SCITECH 2024,
+      Orlando, FL, USA, January 2024. AIAA 2024-0649.
+    - >-
+      Oruganti S, Capponi L, Ringel BM, Oldham T, Panesi M, Elliott GS, Panerai F.
+      High-Enthalpy Testing of Thermal Protection Materials in the Plasmatron X
+      for Titan Atmospheric Entry, In AIAA SCITECH 2024, Orlando, FL, USA, January
+      2024. AIAA 2024-0863.
+    - >-
+      Phillippe C, Villafane Roca L, Panerai F. In-Situ Extraction of Modeling
+      Parameters and Mechanics for Parachute Textiles Under Radial Stress with
+      Micro-Tomography and Machine Learning. In AIAA SCITECH 2024, Orlando, FL,
+      USA, January 2024. AIAA 2024-1003.
+    - >-
+      Franco M, Capponi L, Oldham T, Konnik MT, Oruganti S, Elliott GS, Panerai F.
+      Investigation of Slug Calorimeter Heat Flux Measurements in the Plasmatron X
+      Wind Tunnel, In AIAA SCITECH 2024, Orlando, FL, USA, January 2024. AIAA
+      2024-1900.
+    - >-
+      Anderson NA, Lawless L, Bahn L, Wakefield KD, Tang R, Bentz B, Engerer JD,
+      Panerai F. Solar-Thermal Testing of Ablator Materials in an Atomic Oxygen
+      Plasma, In AIAA SCITECH 2024, Orlando, FL, USA, January 2024. AIAA
+      2024-1689.
+    - >-
+      Jain A, Chen S, Panerai F, Villafane Roca L. Experimental study of the shock
+      structure in a particle-laden underexpanded free jet. In AIAA SCITECH 2024,
+      Orlando, FL, USA, January 2024. AIAA 2024-1981.
+    - >-
+      Dias B, Panerai F, Meurisse JBE, Mansour NN. Numerical simulation of
+      FiberForm using a unified flow-material approach: A comparison with flow-
+      tube reactor experiments. In AIAA AVIATION 2024 Forum, Las Vegas, NV, USA,
+      July 2024. AIAA 2024-3907.
+    - >-
+      Ghasimi SD, Rabinovitch J, Chacon L, Poovathingal SJ, Phillippe C, Foster C,
+      Mattei M, Villafane Roca L, Panerai F, As'ad F, Farhat C, Lobbia M, Ataei N.
+      Permeability Modeling of Mars Parachute Broadcloth Materials. In AIAA
+      AVIATION 2024 Forum, Las Vegas, NV, USA, July 2024. AIAA 2024-4224.
+    - >-
+      Rodarte Ricciardi T, Franco M, Tang K, Varona H, Panerai F, Elliott GS,
+      Freund JB. Combustion Heat Flux Estimation for Design of Carbon Fiber-Based
+      Thermal Protection Systems. In AIAA AVIATION 2024 Forum, Las Vegas, NV, USA,
+      July 2024. AIAA 2024-3813.
+  "2023":
+    - >-
+      Phillippe C, Mattei M, Villafane Roca L, Panerai F. In-Situ Micro-scale
+      Characterization of Parachute Textiles with Micro-Tomography and Machine
+      Learning, AIAA SCITECH 2023, National Harbor, MD, USA, January 2023. AIAA
+      2023-0141.
+    - >-
+      Mattei M, Phillippe C, Panerai F, Villafane Roca L. Subscale Wind Tunnel
+      Testing of Parachutes: Effects of Design Shape on Drag and Canopy Breathing,
+      AIAA SCITECH 2023, National Harbor, MD, USA, January 2023. AIAA 2023-0462.
+    - >-
+      Bessire BK, Martin A, Renfro MW, Bailey SCC, Price K, Chen S, Panerai F. An
+      Overview of Experiments in The Entry Systems Modeling Project, AIAA SCITECH
+      2023, National Harbor, MD, USA, January 2023. AIAA 2023-1337.
+    - >-
+      Capponi L, Oldham T, Konnik MT, Stephani KA, Bodony DJ, Panesi M, Elliott
+      GS, Panerai F. Aerothermal characterization of the Plasmatron X Wind Tunnel:
+      Heat flux, Stagnation Pressure and Jet Unsteadiness, AIAA SCITECH 2023,
+      National Harbor, MD, USA, January 2023. AIAA 2023-1338.
+    - >-
+      Oldham T, Capponi L, Konnik MT, Stephani KA, Bodony DJ, Panesi M, Elliott
+      GS, Panerai F. Aerothermal characterization of the Plasmatron X Wind Tunnel:
+      Optical Emission Spectroscopy and Jet Temperature Reconstruction, AIAA
+      SCITECH 2023, National Harbor, MD, USA, January 2023. AIAA 2023-2516.
+    - >-
+      Oruganti S, Le Maout V, Kumar S, Capponi L, Panesi M, Panerai F. Modeling of
+      high enthalpy test article assemblies with instrumented thermocouples in the
+      Plasmatron X aerothermal environment. In AIAA AVIATION 2023 Forum, San
+      Diego, CA, USA, June 2023. AIAA 2023-3327.
+    - >-
+      Chen S, Arias V, Stephani K, Panerai F, Bessire B. Microstructure and
+      Oxidation Behavior of Fibers and Binders in Charring Ablators. In AIAA
+      AVIATION 2023 Forum, San Diego, CA, USA, June 2023. AIAA 2023-3615.
+    - >-
+      Oruganti S, Foster CW, Panerai F. In-situ imaging of RTV silicone pyrolysis.
+      In AIAA AVIATION 2023 Forum, San Diego, CA, USA, June 2023. AIAA 2023-3616.
+    - >-
+      Bessire BK, Meurisse JB, Panerai F, Mansour NN. Material Response Analysis
+      of PICA-NuSil at the Hypersonic Materials Environmental Test System. In AIAA
+      AVIATION 2023 Forum, San Diego, CA, USA, June 2023. AIAA 2023-3325.
+    - >-
+      Tang K, Panerai F, Freund JB, Sensitivity Analysis for Effective
+      Conductivity of Anisotropic Fibrous Materials, In 5th ECCOMAS Thematic
+      Conference on Uncertainty Quantification in Computational Sciences and
+      Engineering, UNCECOMP 2023, Athens, Greece, June 2023. Code 193216.
+  "2022":
+    - >-
+      Anderson NA, Bhattacharya S, Kirmanoglu KK, Stephani KA, Elliott GS,
+      Sankaran RM, Panerai F. High-temperature oxidation of graphite under non-
+      thermal oxygen plasma, AIAA SciTech Forum, San Diego, CA, USA, January 2022.
+      AIAA 2022-0114.
+    - >-
+      Konnik MT, Panerai F, Stephani KA. Influence of impurities and degradation
+      on carbon fiber and amorphous carbon thermal conductivity, AIAA SciTech
+      Forum, San Diego, CA, USA, January 2022. AIAA 2022-0115.
+    - >-
+      Kirmanoglu K, Anderson NA, Panerai F, Stephani KA, Ferguson JC, Close S.
+      Simulating Oxidation of Carbon Surfaces by Atomic Oxygen Coupled with a
+      Finite Rate Oxidation Model, AIAA SciTech Forum, San Diego, CA, USA, January
+      2022. AIAA 2022-0674.
+    - >-
+      Munafo A, Chiodi R, Kumar S, Le Maout V, Stephani KA, Panerai F, Bodony DJ,
+      Panesi M. A Multi-Physics Modeling Framework for Inductively Coupled Plasma
+      Wind Tunnels, AIAA SciTech Forum, San Diego, CA, USA, January 2022. AIAA
+      2022-1011.
+    - >-
+      Varona HX, Faibussowitsch J, Stephani KA, Johnson HT, Elliott GS, Freund JB,
+      Panerai F. Mechanical response of isotropic graphite due to oxidation
+      induced degradation, AIAA SciTech Forum, San Diego, CA, USA, January 2022.
+      AIAA 2022-1643.
+    - >-
+      Le Maout V, Panerai F, Stephani KA. A Volume Averaged Model for
+      Heterogeneous Chemical Reactions in Zirconium Carbide High Temperature
+      Ceramics, AIAA SciTech Forum, San Diego, CA, USA, January 2022. AIAA
+      2022-1858.
+    - >-
+      Foster CW, Panerai F, Collins LN, Roberts SA. Semi-supervised and Deep
+      Learning Segmentation of X-ray Computed Tomography of Woven Composites, 5th
+      International Conference on Tomography of Materials & Structures, Grenoble,
+      France, June 2022.
+    - >-
+      Oruganti S, Mansour NN, Panesi M, Panerai F. Thermal Decomposition of
+      Ablating Gap Filler Material for Atmospheric Entry Heatshields, AIAA
+      AVIATION 2022, Chicago, IL, USA, June 2022. AIAA 2022-3731.
+    - >-
+      Ringel BM, Panerai F, Helber B, Fagnani A, Turchi A. Ablation of carbon
+      thermal protection system materials in high enthalpy air plasma, AIAA
+      AVIATION 2022, Chicago, IL, USA, June 2022. AIAA 2022-3947.
+  "2021":
+    - >-
+      Rzepka AE, Konnik MT, Stephani KA, Foster CW, Panerai F. Modeling and
+      Characterization of Zirconium-Carbide Carbon-Fiber Oxidation at Hypersonic
+      Conditions, 2021 Hypersonic Technology & Systems Conference, Virtual Event,
+      October 2021.
+  "2020":
+    - >-
+      Price KJ, Hardy JM, Borchetta CG, Bailey SCC, Martin A, Panerai F. Analysis
+      of spallation products using arc-jet experiments, AIAA SciTech Forum,
+      Orlando, FL, USA, January 2020. AIAA 2019-1707.
+    - >-
+      Barry CP, Panerai F, Bergeron K, Charette C, Noetscher G, Stapleton SE,
+      Willis DJ, Sherwood JA. Modeling Tensile Tests of a Braided Parachute
+      Suspension Line using a Mesomechanical Finite Element Model, AIAA SciTech
+      Forum, Orlando, FL, USA, January 2020. AIAA 2020-1312.
+    - >-
+      Barry CP, Panerai F, Bergeron K, Charette C, Noetscher G, Stapleton SE,
+      Willis DJ, Sherwood JA. Mesomechanical Modeling of the Mechanical Behavior
+      of Parachute Suspension Lines using LS-DYNA, 16th International LS-DYNA
+      Conference, Virtual Event, June 2020.
+    - >-
+      Price KJ, Bailey SCC, Panerai F, Hardy JM, Borchetta CG, Martin A.
+      Spallation particle size analysis resulting from arc-jet experiments, AIAA
+      Aviation Forum, Virtual Event, June 2020. AIAA 2020-3279.
+  "2019":
+    - >-
+      Ventura Diaz P, Yoon S, Panerai F, Mansour NN. Simulation of HyMETS
+      Flowfield around Baby-SPRITE Entry Probe, AIAA Aviation 2019 Forum, Dallas,
+      TX, USA, June 2019. AIAA 2019-3262.
+    - >-
+      Torres-Herrador F, Coheur J, Magin TE, Blondeau J, Meurisse JBE, Panerai F,
+      Lachaud J, Mansour NN. Comparison between traditional and competitive
+      reaction models for the pyrolysis of high temperature aerospace materials,
+      AIAA Aviation 2019 Forum, Dallas, TX, USA, June 2019. AIAA 2019-3361.
+    - >-
+      MacNeil JML, Morozov D, Panerai F, Parkinson D, Barnard H, Ushizima D.
+      Distributed Global Digital Volume Correlation by Optimal Transport, 2019
+      IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop Computing
+      (XLOOP), Denver, CO, USA, November 2019.
+  "before_2019":
+    - >-
+      Panerai F, Thoemel J, Chazot O. Ground test investigation on a thermal
+      protection system junction. 6th European Symposium on Aerothermodynamics for
+      Space Vehicles, Versailles, France, November 2008. ESA SP-659.
+    - >-
+      Panerai F, Thoemel J, Chazot O. Thermal protection material characterization
+      in ground plasma testing. 41st AIAA Thermophysics Conference, San Antonio,
+      TX, USA, June 2009. AIAA 2009-4094.
+    - >-
+      Panerai F, Chazot O, Tagliaferri E, Rossi G. Testing of the EXPERT thermal
+      protection system junction in a plasma wind tunnel. 16th AIAA/DLR/DGLR
+      International Space Planes and Hypersonics Systems and Technology
+      Conference, Bremen, Germany, October 2009. AIAA 2009-7243.
+    - >-
+      Chazot O, Panerai F, Muylaert JM, Thoemel J. Catalysis phenomena
+      determination in Plasmatron facility for in-flight experiment design
+      (invited). 48th AIAA Aerospace Sciences Meeting Including the New Horizons
+      Forum and Aerospace Exposition, Orlando, FL, USA, January 2010. AIAA
+      2010-124.
+    - >-
+      Asma CO, Helber B, Di Lello L, Panerai F, Magin TE. Infrared thermography
+      measurements on ablative thermal protection systems for interplanetary space
+      vehicles. 10th Quantitative InfraRed Thermography (QIRT) Conference, Quebec,
+      Canada, July 2010.
+    - >-
+      Panerai F, Chazot O. Plasma wind tunnel testing as support to the design of
+      gas-surface interaction in-flight experiments. 17th AIAA International Space
+      Planes and Hypersonic Systems and Technologies Conference, San Francisco,
+      CA, USA, April 2011. AIAA 2011-2276.
+    - >-
+      Chazot O, Panerai F, Van Der Haegen V. Off-stagnation point testing and
+      methodology in plasma wind tunnel. 17th AIAA International Space Planes and
+      Hypersonic Systems and Technologies Conference, San Francisco, CA, USA,
+      April 2011. AIAA 2011-2210.
+    - >-
+      Villedieu N, Panerai F, Chazot O, Magin TE. Uncertainty quantification for
+      gas-surface interaction in plasmatron facility. 7th European Symposium on
+      Aerothermodynamics, Brugge, Belgium, May 2011. ESA SP-692.
+    - >-
+      Panerai F, Helber B, Sakraker I, Chazot O, Pichon T, Barreteau R, Tribot JP,
+      Vallee JJ, Mareschi V, Ferrarella D, Rufolo G, Mancuso S. Characterization
+      of the IXV thermal protection system in high enthalpy plasma flow. 7th
+      European Symposium on Aerothermodynamics, Brugge, Belgium, May 2011. ESA
+      SP-692.
+    - >-
+      Del Vecchio A, Gardi R, Reimer T, Atxaga G, Chazot O, Panerai F.
+      Thermostructural characterization of materials of the EXPERT capsule. 7th
+      European Symposium on Aerothermodynamics, Brugge, Belgium, May 2011. ESA
+      SP-692.
+    - >-
+      Chazot O, Panerai F, Marotta M. Ground testing for GSI database, what do we
+      determine? 7th European Symposium on Aerothermodynamics, Brugge, Belgium,
+      May 2011. ESA SP-692.
+    - >-
+      Chazot O, Panerai F, Van Der Haegen V. Aerothermochemistry testing for
+      lifting reentry vehicles. 7th European Symposium on Aerothermodynamics,
+      Brugge, Belgium, May 2011. ESA SP-692.
+    - >-
+      Helber B, Babou Y, Panerai F, Asma CO, Hubin A, Magin TE. Investigation of
+      the gas-surface interaction of innovative carbon composite ablators in the
+      VKI Plasmatron. 7th European Symposium on Aerothermodynamics, Brugge,
+      Belgium, May 2011. ESA SP-692.
+    - >-
+      Panerai F, Chazot O, Helber B. Gas/surface interaction study on ceramic
+      matrix composite thermal protection system in the VKI Plasmatron facility.
+      42nd AIAA Thermophysics Conference, Honolulu, HI, USA, June 2011. AIAA
+      2011-3642.
+    - >-
+      Sakraker I, Asma CO, Panerai F. Experimental study on the passive-active
+      oxidation transition of the Fast20XX Spaceliner thermal protection system.
+      4th European Conference for Aerospace Sciences (EUCASS), Saint Petersburg,
+      Russia, July 2011. Paper no. 274.
+    - >-
+      Panerai F, Chazot O, Barreteau R, Pichon T. Aerothermochemistry testing of a
+      ceramic matrix composite TPS for a lifting reentry vehicle. 4th European
+      Conference for Aerospace Sciences (EUCASS), Saint Petersburg, Russia, July
+      2011. Paper no. 618.
+    - >-
+      Coluzzi P, Panerai F, Delfini A, Albano M, Vassalli C, Agostinelli F,
+      Iannelli S, Viotto R, Chazot O, Marchetti M. Emissivity characterization of
+      carbon silicon carbide composites for TPS through plasma wind tunnel tests:
+      experimental validation. 63rd International Astronautical Congress, Napoli,
+      Italy, October 2012.
+    - >-
+      Mansour NN, Panerai F, Martin A, Parkinson DY, MacDowell AA, Haboub A,
+      Sandstrom T, Fast A, Vignoles GL, Lachaud J. A new approach to light-weight
+      ablators analysis: from micro-tomography measurements to statistical
+      analysis and modeling. 44th AIAA Thermophysics Conference, San Diego, CA,
+      USA, June 2013. AIAA 2013-2768.
+    - >-
+      Panerai F, Martin A, Mansour NN, Sepka SA, Lachaud J. Flow-tube oxidation
+      experiments on the carbon preform of PICA. 44th AIAA Thermophysics
+      Conference, San Diego, CA, USA, June 2013. AIAA 2013-2769.
+    - >-
+      Panerai F, Mansour NN, Lachaud J, Martin A. Experimental and Numerical Study
+      of Carbon Fiber Oxidation. 52nd AIAA Aerospace Sciences Meeting, National
+      Harbor, MD, USA, January 2014. AIAA 2014-1208.
+    - >-
+      Viladegut A, Panerai F, Chazot O, Pichon T, Bertrand P, Verdy C, Coddet C.
+      Flying catalysis in lifting atmospheric entry: design integration of the IXV
+      catalysis experiment. 8th European Symposium on Aerothermodynamics for Space
+      Vehicles, Lisbon, Portugal, March 2015. Paper no. 84839.
+    - >-
+      Balat-Pichelin M, Charpentier L, Panerai F, Chazot O, Helber B, Nickel KG.
+      Oxidation at high temperature in air plasma for the TPS of IXV:
+      Passive/active transition and temperature jump. 8th European Symposium on
+      Aerothermodynamics for Space Vehicles, Lisbon, Portugal, March 2015. Paper
+      no. 88723.
+    - >-
+      Martin A, Bailey SCC, Panerai F, Davuluri RSC J, Vazsonyi AR, Zhang H,
+      Lippay ZS, Mansour NN, Inman JA, Bathel BF, Splinter SC, Danahey, PM.
+      Preliminary numerical and experimental analysis of the spallation
+      phenomenon. 8th European Symposium on Aerothermodynamics for Space Vehicles,
+      Lisbon, Portugal, March 2015. Paper no. 88621.
+    - >-
+      Panerai F, Ferguson JC, Lachaud J, Martin A, Gasch MJ, Mansour NN. Analysis
+      of fibrous felts for flexible ablators using synchrotron hard X-ray micro-
+      tomography. 8th European Symposium on Aerothermodynamics for Space Vehicles,
+      Lisbon, Portugal, March 2015. Paper no. 89747.
+    - >-
+      Butler BD, Winter M, Panerai F, Martin A, Bailey SCC, Stackpoole M, Danehy
+      PM, Splinter SC. Characterization of Candidate Materials for Remote
+      Recession Measurements of Ablative Heat Shield Materials. 54th AIAA
+      Aerospace Science Meeting, San Diego, CA, USA, January 2016. AIAA 2016-1516.
+    - >-
+      Winter M, Butler BD, Diao Z, Panerai F, Martin A, Bailey SCC, Danehy PM,
+      Splinter SC. Characterization of Ablation Product Radiation Signatures of
+      PICA and FiberForm, 46th AIAA Thermophysics Conference, Washington, DC, USA,
+      June 2016. AIAA 2016-3233.
+    - >-
+      MacDowell AA, Barnard HS, Parkinson DY, Haboub A, Larson N, Zok F, Panerai
+      F, Mansour NN, Bale H, Gludovatz B, Acevedo C, Liu D, Ritchie RO. High
+      temperature X-ray micro-tomography, AIP Conference Proceedings 1741 (2016)
+      050005.
+    - >-
+      Borner A, Swaminathan-Gopalan K, Stephani KA, Murray V, Poovathingal SJ,
+      Minton TK, Panerai F, Mansour NN. DSMC Analysis of Molecular Beam
+      Experiments on Light-Weight Carbon Preform Ablators, 47th AIAA Thermophysics
+      Conference, Denver, CO, USA, June 2017. AIAA 2017-3687.
+    - >-
+      Panerai F, Borner A, Ferguson JC, Mansour NN, Barnard HS, MacDowell AA,
+      Parkinson DY. X-Ray Micro-Tomography Applied to NASA's Materials Research:
+      Heat Shields, Parachutes and Asteroids, 3rd International Conference on
+      Tomography of Materials & Structures, Lund, Sweden, June 2017.
+      ICTMS2017-135.
+    - >-
+      Ferguson JC, Panerai F, Borner A, Mansour NN. The Porous Materials Analysis
+      open-source software for material properties and response based on micro-
+      tomography, 3rd International Conference on Tomography of Materials &
+      Structures, Lund, Sweden, June 2017. ICTMS2017-137.
+    - >-
+      Jambunathan R, Borner A, Ferguson JC, Panerai F, Levin DA. Prediction of
+      thermal protection system material permeability and tortuosity factor using
+      Direct Simulation Monte Carlo, 2018 AIAA Aerospace Science Meeting,
+      Kissimmee, FL, USA, January 2018. AIAA 2018-0497.
+    - >-
+      Barnard HS, Macdowell AA, Parkinson DY, Larson NM, Peterson JC, Panerai F,
+      Mansour NN, Gao Y. Synchrotron X-ray Micro Tomography at the Advanced Light
+      Source: In-Situ Sample Environments for Advanced Aerospace Materials.
+      Microscopy and Microanalysis 24 (S2) (2018), 444-445.
+
